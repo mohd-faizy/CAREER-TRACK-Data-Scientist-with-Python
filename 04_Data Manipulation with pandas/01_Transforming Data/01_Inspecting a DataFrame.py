@@ -27,3 +27,14 @@ Instructions:
 '''
 # Print the head of the homelessness data
 homelessness.head()
+
+'''
+# Output
+
+               region       state  individuals  family_members  state_pop
+0  East South Central     Alabama       2570.0           864.0    4887681
+1             Pacific      Alaska       1434.0           582.0     735139
+2            Mountain     Arizona       7259.0          2606.0    7158024
+3  West South Central    Arkansas       2280.0           432.0    3009733
+4             Pacific  California     109008.0         20964.0   39461588
+'''

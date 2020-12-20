@@ -17,7 +17,7 @@ on multiple columns in this way by passing a list of column names.
 By combining .sort_values() with .head(), you can answer questions in the form,
 "What are the top cases where…?".
 
-Instructions 1/3:
+Instructions:
 
  1. Sort homelessness by the number of homeless individuals, from smallest to largest,
     and save this as homelessness_ind.

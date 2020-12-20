@@ -24,6 +24,7 @@ Instructions:
 '''
 # Import pandas using the alias pd
 import pandas as pd
+homelessness = pd.read_csv('content/homelessness.csv')
 
 # Print the values of homelessness
 print(homelessness.values)

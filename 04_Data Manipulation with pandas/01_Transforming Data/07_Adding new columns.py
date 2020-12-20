@@ -17,14 +17,20 @@ Instructions:
  - Add another column to homelessness, named p_individuals, containing the
    proportion of homeless people in each state who are individuals.
 '''
+# Import pandas using the alias pd
+import pandas as pd
+homelessness = pd.read_csv('content/homelessness.csv')
+
 # Add total col as sum of individuals and family_members
-homelessness['total'] = homelessness['individuals'] + homelessness['family_members']
+homelessness['total'] = homelessness['individuals'] + \
+    homelessness['family_members']
 
 # Add p_individuals col as proportion of individuals
 # To get the proportion of homeless who are individuals,
 # divide the individuals column by the total column.
 
-homelessness['p_individuals'] = homelessness['individuals'] / homelessness['total']
+homelessness['p_individuals'] = homelessness['individuals'] / \
+    homelessness['total']
 
 # See the result
 print(homelessness)

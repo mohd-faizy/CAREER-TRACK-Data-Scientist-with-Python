@@ -41,7 +41,9 @@ store type  department          date  weekly_sales  is_holiday  temperature_c  f
 
 
 # Import pandas using the alias pd
+import numpy as np
 import pandas as pd
+
 sales = pd.read_csv('content/wallmart_sales.csv')
 
 # A custom IQR function
@@ -50,3 +52,11 @@ def iqr(column):
 
 # Print IQR of the temperature_c column
 print(sales['temperature_c'].agg(iqr))
+
+
+# Update to print IQR of temperature_c, fuel_price_usd_per_l, & unemployment
+print(sales[["temperature_c", 'fuel_price_usd_per_l', 'unemployment']].agg(iqr))
+
+
+# Update to print IQR and median of temperature_c, fuel_price_usd_per_l, & unemployment
+print(sales[["temperature_c", "fuel_price_usd_per_l", "unemployment"]].agg([iqr, np.median]))

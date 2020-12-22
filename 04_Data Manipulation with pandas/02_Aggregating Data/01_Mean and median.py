@@ -28,7 +28,7 @@ store type  department          date  weekly_sales  is_holiday  temperature_c  f
 4      1    A           1 2010-06-04      17558.09       False         27.050                 0.715         7.808
  ----------------------------------------------------------------------------------------------------------------
 '''
-# Import pandas using the alias pd
+# Import pandas and numpy
 import pandas as pd
 sales = pd.read_csv('content/wallmart_sales.csv')
 

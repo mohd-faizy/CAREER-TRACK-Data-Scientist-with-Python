@@ -30,7 +30,7 @@ store type  department          date  weekly_sales  is_holiday  temperature_c  f
  ----------------------------------------------------------------------------------------------------------------
 '''
 
-# Import pandas using the alias pd
+# Import pandas and numpy
 import numpy as np
 import pandas as pd
 

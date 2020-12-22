@@ -34,7 +34,7 @@ sales.head()
 4      1    A           1 2010-06-04      17558.09       False         27.050                 0.715         7.808
 -----------------------------------------------------------------------------------------------------------------
 '''
-# Import pandas using the alias pd
+# Import pandas and numpy 
 import numpy as np
 import pandas as pd
 

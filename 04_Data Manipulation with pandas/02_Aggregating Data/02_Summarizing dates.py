@@ -12,7 +12,7 @@ Instructions:
  - Print the maximum of the date column.
  - Print the minimum of the date column.
 '''
-# Import pandas using the alias pd
+# Import pandas and numpy
 import pandas as pd
 sales = pd.read_csv('content/wallmart_sales.csv')
 

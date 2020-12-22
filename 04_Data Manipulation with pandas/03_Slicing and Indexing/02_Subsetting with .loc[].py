@@ -39,10 +39,6 @@ Abidjan 2000-04-01  Côte D'Ivoire      28.162
 Abidjan 2000-05-01  Côte D'Ivoire      27.547
 -------------------------------------------------
 '''
-# Importing Pandas
-import pandas as pd
-temperatures = pd.read_csv('/contect/temperatures.csv')
-
 # Make a list of cities to subset on
 cities = ["Moscow", "Saint Petersburg"]
 

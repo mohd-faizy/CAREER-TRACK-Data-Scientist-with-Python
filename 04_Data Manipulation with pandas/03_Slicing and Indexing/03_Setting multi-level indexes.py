@@ -37,9 +37,6 @@ Instructions:
 4 2000-05-01  Abidjan  Côte D'Ivoire      27.547
 -------------------------------------------------
 '''
-# Importing Pandas
-import pandas as pd
-temperatures = pd.read_csv('/contect/temperatures.csv')
 
 # Index temperatures by country & city
 temperatures_ind = temperatures.set_index(["country", "city"])

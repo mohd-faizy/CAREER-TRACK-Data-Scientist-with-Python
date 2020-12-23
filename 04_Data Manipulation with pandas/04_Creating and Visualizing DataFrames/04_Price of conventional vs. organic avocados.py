@@ -7,12 +7,15 @@ of conventional and organic avocados.
 
 matplotlib.pyplot has been imported as plt and pandas has been imported as pd.
 
-Instructions 1/3
+Instructions:
 
 - Subset avocados for the conventional type, and the average price column. Create a histogram.
 - Create a histogram of avg_price for organic type avocados.
 - Add a legend to your plot, with the names "conventional" and "organic".
+- Modify your code to adjust the transparency of both histograms to 0.5.
+- Modify your code to use 20 bins in both histograms.
 - Show your plot.
+
 --------------------------------------------------------------
 avocados.head()
 
@@ -27,14 +30,14 @@ avocados.head()
 # Import matplotlib.pyplot with alias plt
 import matplotlib.pyplot as plt
 
-# Histogram of conventional avg_price
-avocados[avocados['type'] == 'conventional']['avg_price'].hist()
+# Modify bins to 20
+avocados[avocados["type"] == "conventional"]["avg_price"].hist(alpha=0.5, bins=20)
 
-# Histogram of organic avg_price
-avocados[avocados['type'] == 'organic']['avg_price'].hist()
+# Modify bins to 20
+avocados[avocados["type"] == "organic"]["avg_price"].hist(alpha=0.5, bins=20)
 
 # Add a legend
-plt.legend(['conventional', 'organic'])
+plt.legend(["conventional", "organic"])
 
 # Show the plot
 plt.show()

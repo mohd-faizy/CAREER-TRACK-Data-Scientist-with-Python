@@ -9,7 +9,18 @@ in 2016 and 2017, but it doesn't have the exact numbers you want. In order to fi
 out, you'll need to get the CSV into a pandas DataFrame and do some manipulation!
 
 pandas is imported for you as pd. "airline_bumping.csv" is in your working directory.
+--------------------------------------------------------
+dataset:
 
+airline_bumping.head()
+
+             airline  year  nb_bumped  total_passengers
+0    DELTA AIR LINES  2017        679          99796155
+1     VIRGIN AMERICA  2017        165           6090029
+2    JETBLUE AIRWAYS  2017       1475          27255038
+3    UNITED AIRLINES  2017       2067          70030765
+4  HAWAIIAN AIRLINES  2017         92           8422734
+---------------------------------------------------------
 Instructions:
 
 -1--------------------------------------------------------------------------------------------

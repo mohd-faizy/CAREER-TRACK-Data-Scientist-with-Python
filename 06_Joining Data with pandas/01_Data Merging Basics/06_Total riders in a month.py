@@ -11,14 +11,14 @@ you need to answer the question is below.
 
 The cal, ridership, and stations DataFrames have been loaded for you. The relationship 
 between the tables can be seen in the diagram below.
---------        --------------      ------------
-  cal             ridership           stations
---------        --------------      ------------
-- year---------+   - station_id------->- station_id
-- month-----+  |-->- year              - station_name
-- day-----+ |----->- month             - location
-- day_type|------->- day
-                   - rides
+--------          --------------         ------------
+  cal                ridership             stations
+--------          --------------         ------------
+- year---------+    - station_id-------> - station_id
+- month-----+  |--> - year               - station_name
+- day-----+ |-----> - month              - location
+- day_type|-------> - day
+                    - rides
 
 Table diagram. The cal table relates to ridership via year, month, and day. The ridership 
 table relates to the stations table via station_id.

@@ -34,7 +34,8 @@ The pop_movies and movie_to_genres tables have been loaded for you.
 --------------------------------------------------------------
 Instructions:
 
-- Merge movie_to_genres and pop_movies using a right join. Save the results as genres_movies.
+- Merge movie_to_genres and pop_movies using a right join. Save the results as
+  genres_movies.
 - Group genres_movies by genre and count the number of id values.
 '''
 # Use right join to merge the movie_to_genres and pop_movies tables

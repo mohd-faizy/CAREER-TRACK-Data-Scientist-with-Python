@@ -23,4 +23,4 @@
 ### :zero::four:[Data Manipulation with pandas](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/04_Data%20Manipulation%20with%20pandas)
 ### :zero::five:[Project - The Android App Market on Google Play](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/05_Project_2_Google_Play_Store_apps_and_reviews)
 ### :zero::six:[Joining Data with pandas](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/06_Joining%20Data%20with%20pandas)
-### :zero::seven:[Project - The GitHub History of the Scala Language]()
+### :zero::seven:[Project - The GitHub History of the Scala Language](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/07_Project_3_The%20GitHub%20History%20of%20the%20Scala%20Language)

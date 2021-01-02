@@ -1,6 +1,5 @@
 '''
-Function with variable-length arguments (*args)
-100xp
+09 - Function with variable-length arguments (*args)
 
 Flexible arguments enable you to pass a variable number of arguments to a function.
 In this exercise, you will practice defining a function that accepts a variable number
@@ -13,14 +12,19 @@ a single string argument and see how the output changes with another call using 
 string argument. Recall from the previous video that, within the function definition, args is
 a tuple.
 
-Instructions
--Complete the function header with the function name gibberish. It accepts a single flexible
-argument *args.
--Initialize a variable hodgepodge to an empty string.
--Return the variable hodgepodge at the end of the function body.
--Call gibberish() with the single string, "luke". Assign the result to one_word.
--Hit the Submit button to call gibberish() with multiple arguments and to print the value
-to the Shell.
+Instructions:
+
+- Complete the function header with the function name gibberish. It accepts a single flexible
+  argument *args.
+
+- Initialize a variable hodgepodge to an empty string.
+
+- Return the variable hodgepodge at the end of the function body.
+
+- Call gibberish() with the single string, "luke". Assign the result to one_word.
+
+- Hit the Submit button to call gibberish() with multiple arguments and to print the value
+  to the Shell.
 '''
 # Define gibberish
 def gibberish(*args):

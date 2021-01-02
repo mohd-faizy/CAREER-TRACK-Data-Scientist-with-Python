@@ -1,6 +1,6 @@
 '''
-Python's built-in scope
-50xp
+03 - Python's built-in scope
+
 
 Here you're going to check out Python's built-in scope, which is really just a
 built-in module called builtins. However, to query builtins, you'll need to import

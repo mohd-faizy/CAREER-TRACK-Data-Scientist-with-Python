@@ -1,6 +1,6 @@
 '''
-Bringing it all together (2)
-100xp
+12 - Bringing it all together (2)
+
 
 Wow, you've just generalized your Twitter language analysis that you did in the previous chapter
 to include a default argument for the column name. You're now going to generalize this function
@@ -11,14 +11,18 @@ Once again, for your convenience, pandas has been imported as pd and the 'tweets
 been imported into the DataFrame tweets_df. Parts of the code from your previous work are also
 provided.
 
-Instructions
--Complete the function header by supplying the parameter for the dataframe df and the flexible
-argument *args.
--Complete the for loop within the function definition so that the loop occurs of the tuple args.
--Call count_entries() by passing the tweets_df DataFrame and the column name 'lang'. Assign the
-result to result1.
--Call count_entries() by passing the tweets_df DataFrame and the column names 'lang' and 'source'.
-Assign the result to result2.
+Instructions:
+
+- Complete the function header by supplying the parameter for the dataframe df and the flexible
+  argument *args.
+
+- Complete the for loop within the function definition so that the loop occurs of the tuple args.
+
+- Call count_entries() by passing the tweets_df DataFrame and the column name 'lang'. Assign the
+  result to result1.
+
+- Call count_entries() by passing the tweets_df DataFrame and the column names 'lang' and 'source'.
+  Assign the result to result2.
 '''
 # Import pandas
 import pandas as pd

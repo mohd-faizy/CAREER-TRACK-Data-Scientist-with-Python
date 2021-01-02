@@ -1,6 +1,6 @@
 '''
-Recapping built-in functions
-50xp
+02 - Recapping built-in functions
+
 In the video, Hugo briefly examined the return behavior of the built-in functions
 print() and str(). Here, you will use both functions and examine their return values.
 A variable x has been preloaded for this exercise. Run the code below in the console.

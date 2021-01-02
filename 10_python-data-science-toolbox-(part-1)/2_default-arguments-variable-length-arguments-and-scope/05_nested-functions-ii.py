@@ -1,6 +1,5 @@
 '''
-Nested Functions II
-100xp
+05 - Nested Functions II
 
 Great job, you've just nested a function within another function. One other pretty cool
 reason for nesting functions is the idea of a closure. This means that the nested or inner
@@ -12,14 +11,18 @@ Let's move forward then! In this exercise, you will complete the definition of t
 function inner_echo() and then call echo() a couple of times, each with a different argument.
 Complete the exercise and see what the output will be!
 
-Instructions
--Complete the function header of the inner function with the function name inner_echo()
-and a single parameter word1.
--Complete the function echo() so that it returns inner_echo.
--We have called echo(), passing 2 as an argument, and assigned the resulting function to
-twice. Your job is to call echo(), passing 3 as an argument. Assign the resulting function
-to thrice.
--Hit Submit to call twice() and thrice() and print the results.
+Instructions:
+
+- Complete the function header of the inner function with the function name inner_echo()
+  and a single parameter word1.
+
+- Complete the function echo() so that it returns inner_echo.
+
+- We have called echo(), passing 2 as an argument, and assigned the resulting function to
+  twice. Your job is to call echo(), passing 3 as an argument. Assign the resulting function
+  to thrice.
+
+- Hit Submit to call twice() and thrice() and print the results.
 '''
 # Define echo
 def echo(n):

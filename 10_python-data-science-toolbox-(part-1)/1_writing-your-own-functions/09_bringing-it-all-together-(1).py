@@ -1,6 +1,6 @@
 '''
-Bringing it all together (1)
-100xp
+09 - Bringing it all together (1)
+
 
 You've got your first taste of writing your own functions in the previous exercises.
 You've learned how to add parameters to your own function definitions, return a value
@@ -16,14 +16,19 @@ build a dictionary in which the keys are the names of languages and the values a
 the number of tweets in the given language. The file tweets.csv is available in your
 current directory.
 
-Instructions
--Import the pandas package with the alias pd.
--Import the file 'tweets.csv' using the pandas function read_csv(). Assign the resulting DataFrame to df.
--Complete the for loop by iterating over col, the 'lang' column in the DataFrame df.
--Complete the bodies of the if-else statements in the for loop: if the key is in the
-dictionary langs_count, add 1 to its current value, else add the key to langs_count
-and set its value to 1. Use the loop variable entry in your code.
+Instructions:
+
+- Import the pandas package with the alias pd.
+
+- Import the file 'tweets.csv' using the pandas function read_csv(). Assign the resulting DataFrame to df.
+
+- Complete the for loop by iterating over col, the 'lang' column in the DataFrame df.
+
+- Complete the bodies of the if-else statements in the for loop: if the key is in the
+  dictionary langs_count, add 1 to its current value, else add the key to langs_count
+  and set its value to 1. Use the loop variable entry in your code.
 '''
+
 # Import pandas
 import pandas as pd
 

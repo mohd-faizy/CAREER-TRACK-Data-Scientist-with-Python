@@ -1,6 +1,6 @@
 '''
-Single-parameter functions
-100xp
+04 - Single-parameter functions
+
 Congratulations! You have successfully defined and called your own function!
 That's pretty cool.
 
@@ -11,7 +11,8 @@ to it. Also note that shout(word), the part of the header that specifies the
 function name and parameter(s), is known as the signature of the function.
 You may encounter this term in the wild!
 
-Instructions
+Instructions:
+
 -Complete the function header by adding the parameter name, word.
 -Assign the result of concatenating word with '!!!' to shout_word.
 -Print the value of shout_word.

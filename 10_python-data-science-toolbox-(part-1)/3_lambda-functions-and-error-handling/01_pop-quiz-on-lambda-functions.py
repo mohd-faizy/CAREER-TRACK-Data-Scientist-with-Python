@@ -1,6 +1,6 @@
 '''
-Pop quiz on lambda functions
-50xp
+01 - Pop quiz on lambda functions
+
 
 In this exercise, you will practice writing a simple lambda function and calling this function.
 Recall what you know about lambda functions and answer the following questions:

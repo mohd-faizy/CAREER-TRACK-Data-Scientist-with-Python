@@ -1,6 +1,6 @@
 '''
-Map() and lambda functions
-100xp
+03 - Map() and lambda functions
+
 
 So far, you've used lambda functions to write short, simple functions as well
 as to redefine functions with simple functionality. The best use case for lambda
@@ -24,10 +24,12 @@ from the call to map() is stored in result. You will now practice the use of lam
 functions with map(). For this exercise, you will map the functionality of the add_bangs()
 function you defined in previous exercises over a list of strings.
 
-Instructions
--In the map() call, pass a lambda function that concatenates the string '!!!' to a string
-item; also pass the list of strings, spells. Assign the resulting map object to shout_spells.
--Convert shout_spells to a list and print out the list.
+Instructions:
+
+- In the map() call, pass a lambda function that concatenates the string '!!!' to a string
+  item; also pass the list of strings, spells. Assign the resulting map object to shout_spells.
+
+- Convert shout_spells to a list and print out the list.
 '''
 # Create a list of strings: spells
 spells = ["protego", "accio", "expecto patronum", "legilimens"]

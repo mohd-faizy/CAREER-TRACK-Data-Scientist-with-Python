@@ -1,6 +1,6 @@
 '''
-Strings in Python
-50xp
+01- Strings in Python
+
 In the video, you learned of another standard Python datatype, strings. Recall that these
 represent textual data. To assign the string 'DataCamp' to a variable company, you execute:
 

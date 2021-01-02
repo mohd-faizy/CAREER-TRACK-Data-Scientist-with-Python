@@ -1,6 +1,6 @@
 '''
-Pop quiz on understanding scope
-50xp
+01 - Pop quiz on understanding scope
+
 
 In this exercise, you will practice what you've learned about scope in functions.
 The variable num has been predefined as 5, alongside the following function definitions:

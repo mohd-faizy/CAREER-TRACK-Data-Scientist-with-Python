@@ -27,4 +27,8 @@
 
 ### :zero::eight:[Introduction to Data Visualization with Matplotlib](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/08_Introduction%20to%20Data%20Visualization%20with%20Matplotlib)
 
+### :zero::nine:[Introduction to Data Visualization with Seaborn](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/09_Introduction%20to%20Data%20Visualization%20with%20Seaborn)
+### :one::zero:[Python-data-science-toolbox - Part-1](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/10_python-data-science-toolbox-(part-1))
+### :one::one:[Python-data-science-toolbox - Part-2](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/11_python-data-science-toolbox-(part-2))
+
 

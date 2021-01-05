@@ -3,7 +3,7 @@
 ![made-with-Markdown](https://img.shields.io/badge/Made%20with-markdown-blue)
 ![Language](https://img.shields.io/github/languages/top/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python)
 ![Platform](https://img.shields.io/badge/platform-jupyter%20labs-blue)
-![Maintained](https://img.shields.io/maintenance/yes/2020)
+![Maintained](https://img.shields.io/maintenance/yes/2021)
 ![Last Commit](https://img.shields.io/github/last-commit/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python)
 [![GitHub issues](https://img.shields.io/github/issues/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python)](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://opensource.com/resources/what-open-source)

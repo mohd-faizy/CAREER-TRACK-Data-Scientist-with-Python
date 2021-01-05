@@ -42,6 +42,6 @@ Output:
 <script.py> output:
     {'CountryName': 'Arab World', 'CountryCode': 'ARB', 'IndicatorName': 'Adolescent fertility rate (births per 1,000 women ages 15-19)',
      'IndicatorCode': 'SP.ADO.TFRT', 'Year': '1960', 'Value': '133.56090740552298'}
-In [1]:
+
 
 '''

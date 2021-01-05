@@ -1,6 +1,6 @@
 '''
-Writing a generator to load data in chunks (3)
-100xp
+07 - Writing a generator to load data in chunks (3)
+
 
 Great! You've just created a generator function that you can use to help you process large files.
 
@@ -34,5 +34,12 @@ with open('world_dev_ind.csv') as file:
         else:
             counts_dict[first_col] = 1
 
-# Print            
+# Print
 print(counts_dict)
+
+'''
+Output
+
+<script.py> output:
+    {'CountryName': 1, 'Arab World': 80, 'Caribbean small states': 77, 'Central Europe and the Baltics': 71, 'East Asia & Pacific (all income levels)': 122, 'East Asia & Pacific (developing only)': 123, 'Euro area': 119, 'Europe & Central Asia (all income levels)': 109, 'Europe & Central Asia (developing only)': 89, 'European Union': 116, 'Fragile and conflict affected situations': 76, 'Heavily indebted poor countries (HIPC)': 99, 'High income': 131, 'High income: nonOECD': 68, 'High income: OECD': 127, 'Latin America & Caribbean (all income levels)': 130, 'Latin America & Caribbean (developing only)': 133, 'Least developed countries: UN classification': 78, 'Low & middle income': 138, 'Low income': 80, 'Lower middle income': 126, 'Middle East & North Africa (all income levels)': 89, 'Middle East & North Africa (developing only)': 94, 'Middle income': 138, 'North America': 123, 'OECD members': 130, 'Other small states': 63, 'Pacific island small states': 66, 'Small states': 69, 'South Asia': 36}
+'''

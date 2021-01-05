@@ -1,6 +1,6 @@
 '''
-Writing a generator to load data in chunks (2)
-100xp
+06_Writing a generator to load data in chunks (2)
+
 
 In the previous exercise, you processed a file line by line for a given number of lines.
 What if, however, you want to do this for the entire file?
@@ -19,13 +19,17 @@ So out in the wild, you won't have to explicitly create generator objects in cas
 However, for pedagogical reasons, we are having you practice how to do this here with the
 read_large_file() function. Go for it!
 
-Instructions
--In the function read_large_file(), read a line from file_object by using the method readline().
-Assign the result to data.
--In the function read_large_file(), yield the line read from the file data.
--In the context manager, create a generator object gen_file by calling your generator function
-read_large_file() and passing file to it.
--Print the first three lines produced by the generator object gen_file using next().
+Instructions:
+
+- In the function read_large_file(), read a line from file_object by using the method readline().
+  Assign the result to data.
+
+- In the function read_large_file(), yield the line read from the file data.
+
+- In the context manager, create a generator object gen_file by calling your generator function
+  read_large_file() and passing file to it.
+
+- Print the first three lines produced by the generator object gen_file using next().
 '''
 
 # Define read_large_file()
@@ -55,3 +59,14 @@ with open('world_dev_ind.csv') as file:
     print(next(gen_file))
     print(next(gen_file))
     print(next(gen_file))
+
+'''
+Output:
+
+<script.py> output:
+    CountryName,CountryCode,IndicatorName,IndicatorCode,Year,Value
+    
+    Arab World,ARB,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,1960,133.56090740552298
+    
+    Arab World,ARB,Age dependency ratio (% of working-age population),SP.POP.DPND,1960,87.7976011532547
+'''

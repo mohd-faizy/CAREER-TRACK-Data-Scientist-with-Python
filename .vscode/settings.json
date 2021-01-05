@@ -3,5 +3,6 @@
         "activityBar.background": "#282E37",
         "titleBar.activeBackground": "#39404D",
         "titleBar.activeForeground": "#F9FAFB"
-    }
+    },
+    "workbench.colorTheme": "Night Owl"
 }

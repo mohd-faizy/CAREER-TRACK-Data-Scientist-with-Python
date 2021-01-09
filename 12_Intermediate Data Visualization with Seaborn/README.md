@@ -4,6 +4,6 @@
 
  <p align='center'>
   <a href="#">
-    <img src='' alt="cert-12">
+    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/_Certificates/%5BCert%5D_09_Intermediate%20Data%20Visualization%20with%20Seaborn.jpg?raw=true' alt="cert-12">
   </a>
 </p>

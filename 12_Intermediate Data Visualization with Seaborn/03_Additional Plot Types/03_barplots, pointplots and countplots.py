@@ -27,4 +27,12 @@ plt.show()
 plt.clf()
 
 
-# 3 - 
+# 3 - barplot
+# Create a barplot with the same data on the x and y axis and change the color of each bar based on the Region column.
+sns.barplot(data=df,
+            y='Award_Amount',
+            x='Model Selected',
+            hue='Region')
+
+plt.show()
+plt.clf()

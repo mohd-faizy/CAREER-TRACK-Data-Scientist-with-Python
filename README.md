@@ -31,4 +31,6 @@
 ### :one::zero:[Python-data-science-toolbox - Part-1](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/10_python-data-science-toolbox-(part-1))
 ### :one::one:[Python-data-science-toolbox - Part-2](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/11_python-data-science-toolbox-(part-2))
 
+### :one::two:[Intermediate Data Visualization with Seaborn](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/12_Intermediate%20Data%20Visualization%20with%20Seaborn)
 
+### :one::three:[]()

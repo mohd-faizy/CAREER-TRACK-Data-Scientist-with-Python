@@ -33,4 +33,4 @@
 
 ### :one::two:[Intermediate Data Visualization with Seaborn](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/12_Intermediate%20Data%20Visualization%20with%20Seaborn)
 
-### :one::three:[A Visual History of Nobel Prize Winners](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/13_Project_4_A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
+### :one::three:[Project_4 - A Visual History of Nobel Prize Winners](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/13_Project_4_A%20Visual%20History%20of%20Nobel%20Prize%20Winners)

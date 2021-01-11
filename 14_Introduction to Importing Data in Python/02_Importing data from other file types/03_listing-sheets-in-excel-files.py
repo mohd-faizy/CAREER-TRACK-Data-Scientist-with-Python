@@ -1,6 +1,5 @@
 '''
-Listing sheets in Excel files
-100xp
+03 - Listing sheets in Excel files
 
 Whether you like it or not, any working data scientist will need to deal
 with Excel spreadsheets at some point in time. You won't always want to do
@@ -26,10 +25,10 @@ the print() function.
 import pandas as pd
 
 # Assign spreadsheet filename: file
-file = '../_datasets/battledeath.xlsx'
+file = 'battledeath.xlsx'
 
-# Load spreadsheet: xl
-xl = pd.ExcelFile(file)
+# Load spreadsheet: xls
+xls = pd.ExcelFile(file)
 
 # Print sheet names
-print(xl.sheet_names)
+print(xls.sheet_names)

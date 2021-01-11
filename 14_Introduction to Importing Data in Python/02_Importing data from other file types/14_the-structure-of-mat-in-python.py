@@ -1,6 +1,6 @@
 '''
-The structure of .mat in Python
-100xp
+14 - The structure of .mat in Python
+
 Here, you'll discover what is in the MATLAB dictionary that you loaded in the 
 previous exercise.
 
@@ -14,15 +14,19 @@ import numpy as np
 Once again, this file contains gene expression data from the Albeck Lab at UCDavis.
 You can find the data and some great documentation here.
 
-Instructions
--Use the method .keys() on the dictionary mat to print the keys. Most of these keys
-(in fact the ones that do NOT begin and end with '__') are variables from the
-corresponding MATLAB environment.
--Print the type of the value corresponding to the key 'CYratioCyt' in mat. Recall
-that mat['CYratioCyt'] accesses the value.
--Print the shape of the value corresponding to the key 'CYratioCyt' using the numpy
-function shape().
--Execute the entire script to see some oscillatory gene expression data!
+Instructions:
+
+- Use the method .keys() on the dictionary mat to print the keys. Most of these keys
+  (in fact the ones that do NOT begin and end with '__') are variables from the
+  corresponding MATLAB environment.
+
+- Print the type of the value corresponding to the key 'CYratioCyt' in mat. Recall
+  that mat['CYratioCyt'] accesses the value.
+
+- Print the shape of the value corresponding to the key 'CYratioCyt' using the numpy
+  function shape().
+
+- Execute the entire script to see some oscillatory gene expression data!
 '''
 # Import package
 import scipy.io
@@ -30,7 +34,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Load MATLAB file: mat
-mat = scipy.io.loadmat('../_datasets/albeck_gene_expression.mat')
+mat = scipy.io.loadmat('albeck_gene_expression.mat')
 
 # Print the keys of the MATLAB dictionary
 print(mat.keys())

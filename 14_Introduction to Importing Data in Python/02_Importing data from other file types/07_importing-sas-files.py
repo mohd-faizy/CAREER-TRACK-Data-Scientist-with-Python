@@ -1,6 +1,6 @@
 '''
-Importing SAS files
-100xp
+07 - Importing SAS files
+
 
 In this exercise, you'll figure out how to import a SAS file as a DataFrame
 using SAS7BDAT and pandas. The file 'sales.sas7bdat' is already in your working
@@ -12,12 +12,16 @@ import matplotlib.pyplot as plt
 The data are adapted from the website of the undergraduate text book Principles
 of Economics by Hill, Griffiths and Lim.
 
-Instructions
--Import the module SAS7BDAT from the library sas7bdat.
--In the context of the file 'sales.sas7bdat', load its contents to a DataFrame
-df_sas, using the method to_data_frame() on the object file.
--Print the head of the DataFrame df_sas.
--Execute your entire script to produce a histogram plot!
+Instructions:
+
+- Import the module SAS7BDAT from the library sas7bdat.
+
+- In the context of the file 'sales.sas7bdat', load its contents to a DataFrame
+  df_sas, using the method to_data_frame() on the object file.
+
+- Print the head of the DataFrame df_sas.
+
+- Execute your entire script to produce a histogram plot!
 '''
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -26,7 +30,7 @@ import matplotlib.pyplot as plt
 from sas7bdat import SAS7BDAT
 
 # Save file to a DataFrame: df_sas
-with SAS7BDAT('../_datasets/sales.sas7bdat') as file:
+with SAS7BDAT('sales.sas7bdat') as file:
     df_sas = file.to_data_frame()
 
 # Print head of DataFrame

@@ -37,7 +37,7 @@
 
 ### :one::four:[Introduction to Importing Data in Python-(part-1)](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/14_Introduction%20to%20Importing%20Data%20in%20Python)
 
-### :one::five:[Intermediate Importing Data in Python-(part-2)]()
+### :one::five:[Intermediate Importing Data in Python-(part-2)](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/15_Intermediate%20Importing%20Data%20in%20Python-(part-2))
 ### :one::seven:[]()
 ### :one::six:[]()
 ### :one::eight:[]()

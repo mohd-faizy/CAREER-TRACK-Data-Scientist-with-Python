@@ -13,7 +13,7 @@
 
 <p align='center'>
   <a href="#">
-    <img src='https://github.com/mohd-faizy/DataScience-With-Python/blob/main/_png/head_new.png?raw=true' alt="head_image">
+    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/_png/head_new.gif?raw=true' alt="head_image">
   </a>
 </p>
 

@@ -22,3 +22,34 @@ Instructions:
 - Write an assert statement that checks if duration_time's data type is now an int.
 - Print the average ride duration.
 '''
+# Strip duration of minutes
+ride_sharing['duration_trim'] = ride_sharing['duration'].str.strip('minutes')
+
+# Convert duration to integer
+ride_sharing['duration_time'] = ride_sharing['duration_trim'].astype('int')
+
+# Write an assert statement making sure of conversion
+assert ride_sharing['duration_time'].dtype == 'int'
+
+# Print formed columns and calculate average ride duration
+print(ride_sharing[['duration', 'duration_trim', 'duration_time']])
+print(ride_sharing['duration_time'].mean())
+
+'''
+<script.py> output:
+             duration duration_trim  duration_time
+    0      12 minutes           12              12
+    1      24 minutes           24              24
+    2       8 minutes            8               8
+    3       4 minutes            4               4
+    4      11 minutes           11              11
+    ...           ...           ...            ...
+    25755  11 minutes           11              11
+    25756  10 minutes           10              10
+    25757  14 minutes           14              14
+    25758  14 minutes           14              14
+    25759  29 minutes           29              29
+    
+    [25760 rows x 3 columns]
+    11.389052795031056
+'''

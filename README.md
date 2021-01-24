@@ -18,10 +18,15 @@
 </p>
 
 ### :zero::one:[DataScience With Python](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/01_Introduction%20to%20Python)
+
 ### :zero::two:[Intermediate Python](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/02-Intermediate%20Python)
+
 ### :zero::three:[Project_1 - Analyzing TV Data](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/03_Project_1_Analyzing%20TV%20Data)
+
 ### :zero::four:[Data Manipulation with pandas](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/04_Data%20Manipulation%20with%20pandas)
+
 ### :zero::five:[Project_2 - The Android App Market on Google Play](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/05_Project_2_Google_Play_Store_apps_and_reviews)
+
 ### :zero::six:[Joining Data with pandas](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/06_Joining%20Data%20with%20pandas)
 ### :zero::seven:[Project_3 - The GitHub History of the Scala Language](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/07_Project_3_The%20GitHub%20History%20of%20the%20Scala%20Language)
 
@@ -38,8 +43,11 @@
 ### :one::four:[Introduction to Importing Data in Python-(part-1)](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/14_Introduction%20to%20Importing%20Data%20in%20Python)
 
 ### :one::five:[Intermediate Importing Data in Python-(part-2)](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/15_Intermediate%20Importing%20Data%20in%20Python-(part-2))
-### :one::six:[Cleaning Data in Python](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/16_Cleaning%20Data%20in%20Python)
-### :one::seven:[]()
+### :one::six:[Cleaning Data in Python (part-1)https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/16_Cleaning%20Data%20in%20Python)
+
+### :one::seven:[Cleaning Data in Python (part-2)](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/17_Cleaning%20Data%20in%20Python%20%5BPart%20-%202%5D)
+
 ### :one::eight:[]()
+
 ### :one::nine:[]()
 ### :two::zero:[]()

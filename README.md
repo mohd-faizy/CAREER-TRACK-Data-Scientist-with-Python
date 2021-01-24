@@ -43,7 +43,7 @@
 ### :one::four:[Introduction to Importing Data in Python-(part-1)](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/14_Introduction%20to%20Importing%20Data%20in%20Python)
 
 ### :one::five:[Intermediate Importing Data in Python-(part-2)](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/15_Intermediate%20Importing%20Data%20in%20Python-(part-2))
-### :one::six:[Cleaning Data in Python (part-1)](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/16_Cleaning%20Data%20in%20Python)
+### :one::six:[Cleaning Data in Python (part-1)](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/16_Cleaning%20Data%20in%20Python%20%5BPart%20-%201%5D)
 
 ### :one::seven:[Cleaning Data in Python (part-2)](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/17_Cleaning%20Data%20in%20Python%20%5BPart%20-%202%5D)
 

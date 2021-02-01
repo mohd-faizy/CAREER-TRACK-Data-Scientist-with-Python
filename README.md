@@ -47,8 +47,7 @@
 
 ### :one::seven:[Cleaning Data in Python (part-2)](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/17_Cleaning%20Data%20in%20Python%20%5BPart%20-%202%5D)
 
-### :one::eight:[Working with Dates and Times in Python
-](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/18_Working%20with%20Dates%20and%20Times%20in%20Python)
+### :one::eight:[Working with Dates and Times in Python](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/18_Working%20with%20Dates%20and%20Times%20in%20Python)
 
 ### :one::nine:[]()
 ### :two::zero:[]()

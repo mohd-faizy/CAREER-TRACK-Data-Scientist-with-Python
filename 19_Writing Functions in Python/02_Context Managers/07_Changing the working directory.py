@@ -40,3 +40,15 @@ def in_dir(directory):
   # whether there was an error or not
   finally:
     os.chdir(current_dir)
+
+'''
+Excellent error handling! Now, even if someone  writes  buggy 
+code when using our context manager, we  will  be  sure   to 
+change the current working directory back to what it was when 
+they called in_dir(). 
+
+This is important to do because your users might be relying on
+their working directory being what it was when they started the
+script. in_dir() is a great example of the CHANGE/RESET pattern 
+that indicates you should use a context manager.
+'''

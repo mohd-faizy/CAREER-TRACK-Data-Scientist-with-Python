@@ -13,6 +13,7 @@ Instructions
   the first argument minus the second argument.
 '''
 
+
 def create_math_function(func_name):
     if func_name == 'add':
         def add(a, b):
@@ -26,8 +27,15 @@ def create_math_function(func_name):
     else:
         print("I don't know that one")
 
+
 add = create_math_function('add')
 print('5 + 2 = {}'.format(add(5, 2)))
 
 subtract = create_math_function('subtract')
 print('5 - 2 = {}'.format(subtract(5, 2)))
+
+'''
+Notice how we assign the return value from create_math_function() to the add  and 
+subtract variables in the script. Since create_math_function() returns a function, 
+we can then call those variables as functions.
+'''

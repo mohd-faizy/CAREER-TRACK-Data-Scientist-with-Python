@@ -35,4 +35,9 @@ my_function(1, 2, 3)
 '''<script.py> output:
     my_function was called with a=1, b=2, c=3
     6
+
+Note that @print_args before the definition of my_function is exactly  equivalent 
+to my_function = print_args(my_function). Remember, even  though  decorators  are 
+functions themselves, when you use decorator syntax with the @ symbol you do  not 
+include the parentheses after the decorator name.
 '''

@@ -49,5 +49,5 @@
 
 ### :one::eight:[Working with Dates and Times in Python](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/18_Working%20with%20Dates%20and%20Times%20in%20Python)
 
-### :one::nine:[]()
+### :one::nine:[Writing Functions in Python](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/19_Writing%20Functions%20in%20Python)
 ### :two::zero:[]()

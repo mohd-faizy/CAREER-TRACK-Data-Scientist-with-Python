@@ -33,8 +33,8 @@ print_sum(15, 20)
 '''
 Instructions 2/3
 
-- Use run_n_times() to create a decorator run_five_times() that will run any function 
-  five times.
+- Use run_n_times() to create a decorator run_five_times() that will run any 
+  function five times.
 '''
 # Use run_n_times() to create the run_five_times() decorator
 run_five_times = run_n_times(5)
@@ -48,10 +48,15 @@ print_sum(4, 100)
 '''
 Instructions 3/3
 
-- Here's the prank: use run_n_times() to modify the built-in print() function so that it 
-  always prints 20 times!
+- Here's the prank: use run_n_times() to modify the built-in print() function so
+  that it always prints 20 times!
 '''
 
 # Modify the print() function to always run 20 times
 print = run_n_times(20)(print)
 print('What is happening?!?!')
+
+'''
+- Warning: overwriting commonly used functions is probably not a great idea, so think
+  twice before using these powers for evil.
+'''

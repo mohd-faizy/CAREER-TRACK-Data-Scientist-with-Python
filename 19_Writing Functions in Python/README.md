@@ -1,4 +1,4 @@
-# Intermediate Importing Data in Python
+# Writing Functions in Python
 
 [Statement Of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/00e0214f1ff5dd069a0be2e8896743070ea056e8)
 

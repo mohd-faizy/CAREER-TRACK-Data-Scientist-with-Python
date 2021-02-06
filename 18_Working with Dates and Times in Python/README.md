@@ -1,4 +1,4 @@
-# Intermediate Importing Data in Python
+# Working with Dates and Times in Python
 
 [Statement Of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/e3fd5ccdf542e92116feb28deb26254078ce1ce1)
 

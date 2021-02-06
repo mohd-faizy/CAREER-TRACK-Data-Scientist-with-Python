@@ -1,4 +1,4 @@
-# Intermediate Importing Data in Python
+# Exploratory Data Analysis in Python
 
 How do we get from data to answers? Exploratory data analysis is a process for  exploring  datasets, 
 answering questions, and visualizing results. This course presents the tools you need to  clean  and 

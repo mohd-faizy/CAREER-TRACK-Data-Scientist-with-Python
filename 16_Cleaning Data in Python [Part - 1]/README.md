@@ -1,4 +1,4 @@
-# Intermediate Importing Data in Python
+# 17_Cleaning Data in Python [Part - 1]
 
 [Statement Of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/51153501b8746a6044cdd2cd8a5423a99ccc8580)
 

@@ -10,7 +10,7 @@ with data, and other core Python libraries including NumPy and  SciPy,  StatsMod
 and Matplotlib for visualization. With these tools and skills, you will be prepared to work with real 
 data, make discoveries, and present compelling results.
 
-[Statement Of Accomplishment]()
+[Statement Of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/298ca83219b5b3568fd3a847df11f3e97f759efd)
 
  <p align='center'>
   <a href="#">

@@ -54,4 +54,10 @@
 
 ### :one::nine:[Writing Functions in Python](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/19_Writing%20Functions%20in%20Python)
 
-### :two::zero:[Exploratory Data Analysis in Python]()
+### :two::zero:[Exploratory Data Analysis in Python](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/20_Exploratory%20Data%20Analysis%20in%20Python)
+
+### :two::onw: [Analyzing Police Activity with pandas](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/21_Analyzing%20Police%20Activity%20with%20pandas)
+
+### :::: []()
+### :::: []()
+### :::: []()

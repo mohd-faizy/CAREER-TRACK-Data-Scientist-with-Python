@@ -1,10 +1,9 @@
-# Analyzing Police Activity with pandas
+# Statistical Thinking in Python (Part 1)
 
-
-[Statement Of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/49126a26b3b2ef42fbb20b8c44221ac137c4b510)
+[Statement Of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/course/361278760682de8fae981a2035d7dae249e9c0e1)
 
  <p align='center'>
   <a href="#">
-    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/_Certificates/%5BCert%5D_16_Analyzing%20Police%20Activity%20with%20pandas.jpg?raw=true' alt="cert-21">
+    <img src='' alt="cert-22">
   </a>
 </p>

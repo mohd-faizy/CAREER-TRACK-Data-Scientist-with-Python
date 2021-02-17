@@ -58,6 +58,7 @@
 
 ### :two::one: [Analyzing Police Activity with pandas](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/21_Analyzing%20Police%20Activity%20with%20pandas)
 
-### :two::two: [Statistical Thinking in Python [Part  - 1]]()
+### :two::two: [Statistical Thinking in Python [Part  - 1]](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/22_Statistical-Thinking-in-Python-%5BPart%20-1%5D)
+
 ### :two::three: [Statistical Thinking in Python [Part  - 2]]()
 ### :two::four: []()

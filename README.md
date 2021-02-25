@@ -16,49 +16,49 @@
   </a>
 </p>
 
-- :zero::one:[DataScience With Python](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/01_Introduction%20to%20Python)
+- :zero::one:[___DataScience With Python___](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/01_Introduction%20to%20Python)
 
-- :zero::two:[Intermediate Python](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/02-Intermediate%20Python)
+- :zero::two:[___Intermediate Python___](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/02-Intermediate%20Python)
 
-- :zero::three:[Project_1 - Analyzing TV Data](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/03_Project_1_Analyzing%20TV%20Data)
+- :zero::three:[___Project_1 - Analyzing TV Data___](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/03_Project_1_Analyzing%20TV%20Data)
 
-- :zero::four:[Data Manipulation with pandas](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/04_Data%20Manipulation%20with%20pandas)
+- :zero::four:[___Data Manipulation with pandas___](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/04_Data%20Manipulation%20with%20pandas)
 
-- :zero::five:[Project_2 - The Android App Market on Google Play](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/05_Project_2_Google_Play_Store_apps_and_reviews)
+- :zero::five:[___Project_2 - The Android App Market on Google Play___](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/05_Project_2_Google_Play_Store_apps_and_reviews)
 
-- :zero::six:[Joining Data with pandas](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/06_Joining%20Data%20with%20pandas)
+- :zero::six:[___Joining Data with pandas___](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/06_Joining%20Data%20with%20pandas)
 
-- :zero::seven:[Project_3 - The GitHub History of the Scala Language](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/07_Project_3_The%20GitHub%20History%20of%20the%20Scala%20Language)
+- :zero::seven:[___Project_3 - The GitHub History of the Scala Language___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/07_Project_3_The%20GitHub%20History%20of%20the%20Scala%20Language)
 
-- :zero::eight:[Introduction to Data Visualization with Matplotlib](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/08_Introduction%20to%20Data%20Visualization%20with%20Matplotlib)
+- :zero::eight:[___Introduction to Data Visualization with Matplotlib___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/08_Introduction%20to%20Data%20Visualization%20with%20Matplotlib)
 
-- :zero::nine:[Introduction to Data Visualization with Seaborn](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/09_Introduction%20to%20Data%20Visualization%20with%20Seaborn)
+- :zero::nine:[___Introduction to Data Visualization with Seaborn___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/09_Introduction%20to%20Data%20Visualization%20with%20Seaborn)
 
-- :one::zero:[Python-data-science-toolbox - Part-1](<https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/10_python-data-science-toolbox-(part-1)>)
+- :one::zero:[___Python-data-science-toolbox - Part-1___](<https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/10_python-data-science-toolbox-(part-1)>)
 
-- :one::one:[Python-data-science-toolbox - Part-2](<https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/11_python-data-science-toolbox-(part-2)>)
+- :one::one:[___Python-data-science-toolbox - Part-2___](<https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/11_python-data-science-toolbox-(part-2)>)
 
-- :one::two:[Intermediate Data Visualization with Seaborn](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/12_Intermediate%20Data%20Visualization%20with%20Seaborn)
+- :one::two:[___Intermediate Data Visualization with Seaborn___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/12_Intermediate%20Data%20Visualization%20with%20Seaborn)
 
-- :one::three:[Project_4 - A Visual History of Nobel Prize Winners](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/13_Project_4_A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
+- :one::three:[___Project_4 - A Visual History of Nobel Prize Winners___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/13_Project_4_A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
 
-- :one::four:[Introduction to Importing Data in Python-(part-1)](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/14_Introduction%20to%20Importing%20Data%20in%20Python)
+- :one::four:[Introduction to Importing Data in Python-(part-1)___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/14_Introduction%20to%20Importing%20Data%20in%20Python)
 
-- :one::five:[Intermediate Importing Data in Python-(part-2)](<https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/15_Intermediate%20Importing%20Data%20in%20Python-(part-2)>)
+- :one::five:[___Intermediate Importing Data in Python-(part-2)___](<https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/15_Intermediate%20Importing%20Data%20in%20Python-(part-2)>)
 
-- :one::six:[Cleaning Data in Python (part-1)](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/16_Cleaning%20Data%20in%20Python%20%5BPart%20-%201%5D)
+- :one::six:[___Cleaning Data in Python (part-1)___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/16_Cleaning%20Data%20in%20Python%20%5BPart%20-%201%5D)
 
-- :one::seven:[Cleaning Data in Python (part-2)](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/17_Cleaning%20Data%20in%20Python%20%5BPart%20-%202%5D)
+- :one::seven:[___Cleaning Data in Python (part-2)___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/17_Cleaning%20Data%20in%20Python%20%5BPart%20-%202%5D)
 
-- :one::eight:[Working with Dates and Times in Python](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/18_Working%20with%20Dates%20and%20Times%20in%20Python)
+- :one::eight:[___Working with Dates and Times in Python___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/18_Working%20with%20Dates%20and%20Times%20in%20Python)
 
-- :one::nine:[Writing Functions in Python](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/19_Writing%20Functions%20in%20Python)
-- :two::zero:[Exploratory Data Analysis in Python](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/20_Exploratory%20Data%20Analysis%20in%20Python)
+- :one::nine:[___Writing Functions in Python___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/19_Writing%20Functions%20in%20Python)
+- :two::zero:[___Exploratory Data Analysis in Python___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/20_Exploratory%20Data%20Analysis%20in%20Python)
 
-- :two::one: [Analyzing Police Activity with pandas](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/21_Analyzing%20Police%20Activity%20with%20pandas)
+- :two::one: [___Analyzing Police Activity with pandas___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/21_Analyzing%20Police%20Activity%20with%20pandas)
 
-- :two::two: [Statistical Thinking in Python [Part  - 1]](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/22_Statistical-Thinking-in-Python-%5BPart%20-1%5D)
+- :two::two: [___Statistical Thinking in Python [Part  - 1]___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/22_Statistical-Thinking-in-Python-%5BPart%20-1%5D)
 
-- :two::three: [Statistical Thinking in Python [Part  - 2]](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/23_Statistical-Thinking-in-Python-%5BPart%20-2%5D)
+- :two::three: [___Statistical Thinking in Python [Part  - 2]___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/23_Statistical-Thinking-in-Python-%5BPart%20-2%5D)
 
 - :two::four: []()

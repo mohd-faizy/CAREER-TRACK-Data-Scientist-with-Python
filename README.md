@@ -16,6 +16,12 @@
   </a>
 </p>
 
+<p align='center'>
+  <a href="#">
+    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/_png/Data-Scientist%20with-Python.png?raw=true' alt="map_img">
+  </a>
+</p>
+
 - :zero::one:[___DataScience With Python___](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/01_Introduction%20to%20Python)
 
 - :zero::two:[___Intermediate Python___](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/02-Intermediate%20Python)

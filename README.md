@@ -27,15 +27,15 @@
 
 - :zero::two:[___Intermediate Python___](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/02-Intermediate%20Python)
 
-- :zero::three:[___Project_1 - Analyzing TV Data___](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/03_Project_1_Analyzing%20TV%20Data)
+- :zero::three:[___Project 1 - Analyzing TV Data___](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/03_Project_1_Analyzing%20TV%20Data)
 
 - :zero::four:[___Data Manipulation with pandas___](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/04_Data%20Manipulation%20with%20pandas)
 
-- :zero::five:[___Project_2 - The Android App Market on Google Play___](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/05_Project_2_Google_Play_Store_apps_and_reviews)
+- :zero::five:[___Project 2 - The Android App Market on Google Play___](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/05_Project_2_Google_Play_Store_apps_and_reviews)
 
 - :zero::six:[___Joining Data with pandas___](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/06_Joining%20Data%20with%20pandas)
 
-- :zero::seven:[___Project_3 - The GitHub History of the Scala Language___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/07_Project_3_The%20GitHub%20History%20of%20the%20Scala%20Language)
+- :zero::seven:[___Project 3 - The GitHub History of the Scala Language___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/07_Project_3_The%20GitHub%20History%20of%20the%20Scala%20Language)
 
 - :zero::eight:[___Introduction to Data Visualization with Matplotlib___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/08_Introduction%20to%20Data%20Visualization%20with%20Matplotlib)
 
@@ -47,7 +47,7 @@
 
 - :one::two:[___Intermediate Data Visualization with Seaborn___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/12_Intermediate%20Data%20Visualization%20with%20Seaborn)
 
-- :one::three:[___Project_4 - A Visual History of Nobel Prize Winners___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/13_Project_4_A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
+- :one::three:[___Project 4 - A Visual History of Nobel Prize Winners___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/13_Project_4_A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
 
 - :one::four:[___Introduction to Importing Data in Python-(part-1)___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/14_Introduction%20to%20Importing%20Data%20in%20Python)
 
@@ -68,4 +68,4 @@
 
 - :two::three: [___Statistical Thinking in Python [Part  - 2]___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/23_Statistical-Thinking-in-Python-%5BPart%20-2%5D)
 
-- :two::four: []()
+- :two::four: [___Project 5 - Dr. Semmelweis and the Discovery of Handwashing___]()

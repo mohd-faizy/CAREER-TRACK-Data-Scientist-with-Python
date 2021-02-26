@@ -70,6 +70,13 @@
 
 - :two::four: [___Project 5 - Dr. Semmelweis and the Discovery of Handwashing___]()
 
+## __STATISTICS__ 
+
+<p align='center'>
+  <a href="#">
+    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/_png/STATISTICS.png?raw=true' alt="map_img">
+  </a>
+</p>
 
 ### Connect with me:
 

@@ -69,7 +69,10 @@
 - :two::three: [___Statistical Thinking in Python [Part  - 2]___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/23_Statistical-Thinking-in-Python-%5BPart%20-2%5D)
 
 - :two::four: [___Project 5 - Dr. Semmelweis and the Discovery of Handwashing___]()
-- :two::five: []()
+- :two::five: [___Supervised Learning with scikit-learn___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/25_Supervised%20Learning%20with%20scikit-learn)
+- :two::six: [___Project 6 - Predicting-Credit-Card-Approvals___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/26_Project_6_Predicting-Credit-Card-Approvals)
+- :two::seven: [___Unsupervised Learning in Python___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/27_Unsupervised%20Learning%20in%20Python)
+- :two::eight: [___Machine Learning with Tree-Based Models in Python___]()
 
 ## __STATISTICS__ 
 

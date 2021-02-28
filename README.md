@@ -72,7 +72,7 @@
 - :two::five: [___Supervised Learning with scikit-learn___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/25_Supervised%20Learning%20with%20scikit-learn)
 - :two::six: [___Project 6 - Predicting-Credit-Card-Approvals___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/26_Project_6_Predicting-Credit-Card-Approvals)
 - :two::seven: [___Unsupervised Learning in Python___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/27_Unsupervised%20Learning%20in%20Python)
-- :two::eight: [___Machine Learning with Tree-Based Models in Python___]()
+- :two::eight: [___Machine Learning with Tree-Based Models in Python___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/28_Machine-Learning-with-Tree-Based-Models-in-Python)
 
 ## __STATISTICS__ 
 

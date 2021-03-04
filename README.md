@@ -5,7 +5,6 @@
 ![Maintained](https://img.shields.io/maintenance/yes/2021)
 ![Last Commit](https://img.shields.io/github/last-commit/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python)
 [![GitHub issues](https://img.shields.io/github/issues/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python)](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://opensource.com/resources/what-open-source)
 ![Stars GitHub](https://img.shields.io/github/stars/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python)
 [![GitHub license](https://img.shields.io/github/license/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python)](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/LICENSE)
 ![Size](https://img.shields.io/github/repo-size/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python)

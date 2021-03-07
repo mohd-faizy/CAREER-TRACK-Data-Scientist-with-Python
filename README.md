@@ -83,6 +83,12 @@
   </a>
 </p>
 
+## Confusion Matrix
+<p align='center'>
+  <a href="#">
+    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/_png/Confusion%20Matrix.png?raw=true'>
+  </a>
+</p>
 ### Connect with me:
 
 

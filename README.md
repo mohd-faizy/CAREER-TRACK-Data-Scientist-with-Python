@@ -9,15 +9,11 @@
 [![GitHub license](https://img.shields.io/github/license/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python)](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/LICENSE)
 ![Size](https://img.shields.io/github/repo-size/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python)
 
-<p align='center'>
-  <a href="#">
-    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/_png/head_new.gif?raw=true' alt="head_image">
-  </a>
-</p>
+
 
 <p align='center'>
   <a href="#">
-    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/_png/Data-Scientist%20with-Python.png?raw=true' alt="map_img">
+    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/_png/head_new.gif?raw=true' alt="head_image">
   </a>
 </p>
 
@@ -74,6 +70,13 @@
 - :two::eight: [___Machine Learning with Tree-Based Models in Python___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/28_Machine-Learning-with-Tree-Based-Models-in-Python)
 - :two::nine: [______]()
 - :three::zero: [______]()
+
+<p align='center'>
+  <a href="#">
+    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/_png/Data-Scientist%20with-Python.png?raw=true' alt="map_img">
+  </a>
+</p>
+
 
 ## __STATISTICS__ 
 

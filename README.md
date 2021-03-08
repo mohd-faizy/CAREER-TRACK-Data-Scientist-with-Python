@@ -68,7 +68,7 @@
 - :two::six: [___Project 6 - Predicting-Credit-Card-Approvals___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/26_Project_6_Predicting-Credit-Card-Approvals)
 - :two::seven: [___Unsupervised Learning in Python___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/27_Unsupervised%20Learning%20in%20Python)
 - :two::eight: [___Machine Learning with Tree-Based Models in Python___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/28_Machine-Learning-with-Tree-Based-Models-in-Python)
-- :two::nine: [______]()
+- :two::nine: [___Case Study School Budgeting with Machine Learning in Python___]()
 - :three::zero: [______]()
 
 <p align='center'>

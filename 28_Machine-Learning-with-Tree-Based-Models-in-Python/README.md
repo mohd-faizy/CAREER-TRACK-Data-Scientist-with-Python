@@ -8,6 +8,6 @@ Decision trees are supervised learning models used for problems involving classi
 
  <p align='center'>
   <a href="#">
-    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/_Certificates/%5BCert%5D_19_Machine%20Learning%20with%20Tree-Based%20Models%20in%20Python.jpg?raw=true' alt="cert-29">
+    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/_Certificates/%5BCert%5D_19_Machine%20Learning%20with%20Tree-Based%20Models%20in%20Python.jpg?raw=true' alt="cert-28">
   </a>
 </p>

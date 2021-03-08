@@ -9,15 +9,11 @@
 [![GitHub license](https://img.shields.io/github/license/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python)](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/LICENSE)
 ![Size](https://img.shields.io/github/repo-size/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python)
 
-<p align='center'>
-  <a href="#">
-    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/_png/head_new.gif?raw=true' alt="head_image">
-  </a>
-</p>
+
 
 <p align='center'>
   <a href="#">
-    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/_png/Data-Scientist%20with-Python.png?raw=true' alt="map_img">
+    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/_png/head_new.gif?raw=true' alt="head_image">
   </a>
 </p>
 
@@ -75,6 +71,13 @@
 - :two::nine: [______]()
 - :three::zero: [______]()
 
+<p align='center'>
+  <a href="#">
+    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/_png/Data-Scientist%20with-Python.png?raw=true' alt="map_img">
+  </a>
+</p>
+
+
 ## __STATISTICS__ 
 
 <p align='center'>
@@ -83,8 +86,16 @@
   </a>
 </p>
 
-### Connect with me:
+## Confusion Matrix
+<p align='center'>
+  <a href="#">
+    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/_png/Confusion%20Matrix.png?raw=true'>
+  </a>
+</p>
 
+[__Source:__ Wikipedia](https://en.wikipedia.org/wiki/Confusion_matrix)
+
+### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

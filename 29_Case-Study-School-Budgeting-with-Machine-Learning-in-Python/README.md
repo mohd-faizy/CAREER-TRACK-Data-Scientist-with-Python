@@ -7,6 +7,6 @@ Data science isn't just for predicting ad-clicks-it's also useful for social imp
 
  <p align='center'>
   <a href="#">
-    <img src='' alt="cert-29">
+    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/_Certificates/%5BCert%5D_21_Quickly%20test%20ways%20of%20improving%20your%20submission.jpg?raw=true' alt="cert-29">
   </a>
 </p>

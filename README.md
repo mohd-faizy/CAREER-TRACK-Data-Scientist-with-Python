@@ -69,7 +69,7 @@
 - :two::seven: [___Unsupervised Learning in Python___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/27_Unsupervised%20Learning%20in%20Python)
 - :two::eight: [___Machine Learning with Tree-Based Models in Python___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/28_Machine-Learning-with-Tree-Based-Models-in-Python)
 - :two::nine: [___Case Study School Budgeting with Machine Learning in Python___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/29_Case-Study-School-Budgeting-with-Machine-Learning-in-Python)
-- :three::zero: [______]()
+- :three::zero: [___Cluster Analysis in Python___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/30_Cluster-Analysis-in-Python)
 
 <p align='center'>
   <a href="#">

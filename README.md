@@ -94,6 +94,14 @@
 
 [__Source:__ Wikipedia](https://en.wikipedia.org/wiki/Confusion_matrix)
 
+---
+
+<p align='center'>
+  <a href='#'>
+    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/_Certificates/%5BCert%5D_23_Data%20Scientist%20with%20Python.jpg?raw=true' width=>
+  </a>
+</p>
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

@@ -72,7 +72,7 @@
 
 <p align='center'>
   <a href="#">
-    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/_png/Data-Scientist%20with-Python.png?raw=true' alt="map_img">
+    <img src='_png\Data-Scientist with-Python.jpg' alt="map_img">
   </a>
 </p>
 
@@ -81,7 +81,7 @@
 
 <p align='center'>
   <a href="#">
-    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/_png/STATISTICS.png?raw=true' alt="map_img">
+    <img src='_png\STATISTICS.jpg' alt="map_img">
   </a>
 </p>
 

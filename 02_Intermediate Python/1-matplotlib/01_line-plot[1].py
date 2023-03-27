@@ -25,7 +25,6 @@ Instructions:
    vertical axis. Don't forget to finish off with the show() function to actually display the plot.
 '''
 
-import matplotlib.pyplot as plt
 
 # Print the last item from year and pop
 print(year[-1])

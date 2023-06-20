@@ -16,59 +16,7 @@
   </a>
 </p>
 
-# __Contents__  
-- :zero::one:[___DataScience With Python___](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/01_Introduction%20to%20Python)
 
-- :zero::two:[___Intermediate Python___](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/02-Intermediate%20Python)
-
-- :zero::three:[___Project 1 - Analyzing TV Data___](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/03_Project_1_Analyzing%20TV%20Data)
-
-- :zero::four:[___Data Manipulation with pandas___](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/04_Data%20Manipulation%20with%20pandas)
-
-- :zero::five:[___Project 2 - The Android App Market on Google Play___](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/05_Project_2_Google_Play_Store_apps_and_reviews)
-
-- :zero::six:[___Joining Data with pandas___](https://github.com/mohd-faizy/DataScience-With-Python/tree/main/06_Joining%20Data%20with%20pandas)
-
-- :zero::seven:[___Project 3 - The GitHub History of the Scala Language___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/07_Project_3_The%20GitHub%20History%20of%20the%20Scala%20Language)
-
-- :zero::eight:[___Introduction to Data Visualization with Matplotlib___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/08_Introduction%20to%20Data%20Visualization%20with%20Matplotlib)
-
-- :zero::nine:[___Introduction to Data Visualization with Seaborn___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/09_Introduction%20to%20Data%20Visualization%20with%20Seaborn)
-
-- :one::zero:[___Python-data-science-toolbox - Part-1___](<https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/10_python-data-science-toolbox-(part-1)>)
-
-- :one::one:[___Python-data-science-toolbox - Part-2___](<https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/11_python-data-science-toolbox-(part-2)>)
-
-- :one::two:[___Intermediate Data Visualization with Seaborn___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/12_Intermediate%20Data%20Visualization%20with%20Seaborn)
-
-- :one::three:[___Project 4 - A Visual History of Nobel Prize Winners___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/13_Project_4_A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
-
-- :one::four:[___Introduction to Importing Data in Python-(part-1)___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/14_Introduction%20to%20Importing%20Data%20in%20Python)
-
-- :one::five:[___Intermediate Importing Data in Python-(part-2)___](<https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/15_Intermediate%20Importing%20Data%20in%20Python-(part-2)>)
-
-- :one::six:[___Cleaning Data in Python (part-1)___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/16_Cleaning%20Data%20in%20Python%20%5BPart%20-%201%5D)
-
-- :one::seven:[___Cleaning Data in Python (part-2)___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/17_Cleaning%20Data%20in%20Python%20%5BPart%20-%202%5D)
-
-- :one::eight:[___Working with Dates and Times in Python___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/18_Working%20with%20Dates%20and%20Times%20in%20Python)
-
-- :one::nine:[___Writing Functions in Python___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/19_Writing%20Functions%20in%20Python)
-- :two::zero:[___Exploratory Data Analysis in Python___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/20_Exploratory%20Data%20Analysis%20in%20Python)
-
-- :two::one: [___Analyzing Police Activity with pandas___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/21_Analyzing%20Police%20Activity%20with%20pandas)
-
-- :two::two: [___Statistical Thinking in Python [Part  - 1]___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/22_Statistical-Thinking-in-Python-%5BPart%20-1%5D)
-
-- :two::three: [___Statistical Thinking in Python [Part  - 2]___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/23_Statistical-Thinking-in-Python-%5BPart%20-2%5D)
-
-- :two::four: [___Project 5 - Dr. Semmelweis and the Discovery of Handwashing___]()
-- :two::five: [___Supervised Learning with scikit-learn___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/25_Supervised%20Learning%20with%20scikit-learn)
-- :two::six: [___Project 6 - Predicting-Credit-Card-Approvals___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/26_Project_6_Predicting-Credit-Card-Approvals)
-- :two::seven: [___Unsupervised Learning in Python___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/27_Unsupervised%20Learning%20in%20Python)
-- :two::eight: [___Machine Learning with Tree-Based Models in Python___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/28_Machine-Learning-with-Tree-Based-Models-in-Python)
-- :two::nine: [___Case Study School Budgeting with Machine Learning in Python___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/29_Case-Study-School-Budgeting-with-Machine-Learning-in-Python)
-- :three::zero: [___Cluster Analysis in Python___](https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/30_Cluster-Analysis-in-Python)
 
 <p align='center'>
   <a href="#">
@@ -98,7 +46,7 @@
 
 <p align='center'>
   <a href='#'>
-    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/_Certificates/%5BCert%5D_23_Data%20Scientist%20with%20Python.jpg?raw=true' width=>
+    <img src='_Certificates\Data Scientist Professional with Python.jpg' width=>
   </a>
 </p>
 
@@ -108,15 +56,11 @@
 
 #### $\color{skyblue}{\textbf{Connect with me:}}$
 
-
 [<img align="left" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="32px"/>][twitter]
 [<img align="left" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="32px"/>][linkedin]
-[<img align="left" src="https://d31pjuirwqbaad.cloudfront.net/wp-content/uploads/2019/08/kissclipart-website-icon-png-clipart-computer-icons-ac62ecb3b8ae4d41.png?x61175" width="32px"/>][Portfolio]
+[<img align="left" src="https://cdn2.iconfinder.com/data/icons/whcompare-blue-green-web-hosting-1/425/cdn-512.png" width="32px"/>][Portfolio]
 
 [twitter]: https://twitter.com/F4izy
 [linkedin]: https://www.linkedin.com/in/mohd-faizy/
 [Portfolio]: https://mohdfaizy.com/
 
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true" width=380px height=200px />

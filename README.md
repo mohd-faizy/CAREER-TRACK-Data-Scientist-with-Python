@@ -107,6 +107,8 @@ In addition to the comprehensive learning materials, this repository offers vari
 | 8 | **Predicting Credit Card Approvals** | <a href="#" target="_blank"><button>Open</button></a> |
 | 9 | **School Budgeting with Machine Learning in Python** | <a href="#" target="_blank"><button>Open</button></a> |
 | 10 | **Analyzing Police Activity with pandas** | <a href="#" target="_blank"><button>Open</button></a> |
+| 11 | **Exploring NYC Public School Test Result Scores** | <a href="#" target="_blank"><button>Open</button></a> |
+| 12 | **Analyzing Crime in Los Angeles** | <a href="#" target="_blank"><button>Open</button></a> |
 
 
 

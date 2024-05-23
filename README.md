@@ -29,63 +29,67 @@ This track is a comprehensive journey through Python for data science. It consis
 
 | # | Project | Link |
 |---|---------|------|
-| 1 | **Introduction to Python** | <a href="#" target="_blank"><button>Open</button></a> |
-| 2 | **Intermediate Python** | <a href="#" target="_blank"><button>Open</button></a> |
+| 1 | **Introduction to Python** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/01_Introduction%20to%20Python" target="_blank"><button>Open</button></a> |
+| 2 | **Intermediate Python** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/02_Intermediate%20Python" target="_blank"><button>Open</button></a> |
 
 
 ### Data Manipulation and Visualization
 
 | # | Project | Link |
 |---|---------|------|
-| 1 | **Data Manipulation with pandas** | <a href="#" target="_blank"><button>Open</button></a> |
-| 2 | **Joining Data with pandas** | <a href="#" target="_blank"><button>Open</button></a> |
-| 3 | **Introduction to Statistics in Python** | <a href="#" target="_blank"><button>Open</button></a> |
-| 4 | **Introduction to Data Visualization with Matplotlib** | <a href="#" target="_blank"><button>Open</button></a> |
-| 5 | **Introduction to Data Visualization with Seaborn** | <a href="#" target="_blank"><button>Open</button></a> |
-| 6 | **Python-data-science-toolbox-(part-1)** | <a href="#" target="_blank"><button>Open</button></a> |
-| 7 | **Python-data-science-toolbox-(part-2)** | <a href="#" target="_blank"><button>Open</button></a> |
-| 8 | **Intermediate Data Visualization with Seaborn** | <a href="#" target="_blank"><button>Open</button></a> |
+| 1 | **Data Manipulation with pandas** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/03_Data%20Manipulation%20with%20pandas" target="_blank"><button>Open</button></a> |
+| 2 | **Joining Data with pandas** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/04_Joining%20Data%20with%20pandas" target="_blank"><button>Open</button></a> |
+| 3 | **Introduction to Statistics in Python** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/05_Introduction%20to%20Statistics%20in%20Python" target="_blank"><button>Open</button></a> |
+| 4 | **Introduction to Data Visualization with Matplotlib** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/06_Introduction%20to%20Data%20Visualization%20with%20Matplotlib" target="_blank"><button>Open</button></a> |
+| 5 | **Introduction to Data Visualization with Seaborn** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/07_Introduction%20to%20Data%20Visualization%20with%20Seaborn" target="_blank"><button>Open</button></a> |
+| 6 | **Python-data-science-toolbox-(part-1)** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/08_Python-data-science-toolbox-(part-1)" target="_blank"><button>Open</button></a> |
+| 7 | **Python-data-science-toolbox-(part-2)** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/09_Python-data-science-toolbox-(part-2)" target="_blank"><button>Open</button></a> |
+| 8 | **Intermediate Data Visualization with Seaborn** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/10_Intermediate%20Data%20Visualization%20with%20Seaborn" target="_blank"><button>Open</button></a> |
 
 
 ### Exploratory Data Analysis (EDA) and Statistics
 
 | # | Project | Link |
 |---|---------|------|
-| 1 | **Exploratory Data Analysis in Python** | <a href="#" target="_blank"><button>Open</button></a> |
-| 2 | **Working with Categorical Data in Python** | <a href="#" target="_blank"><button>Open</button></a> |
-| 3 | **Data Communication Concepts** | <a href="#" target="_blank"><button>Open</button></a> |
+| 1 | **Exploratory Data Analysis in Python Part - 1** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/11_A_Exploratory%20Data%20Analysis%20in%20Python" target="_blank"><button>Open</button></a> |
+| 2 | **Exploratory Data Analysis in Python Part - 2** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/11_B__Exploratory%20Data%20Analysis%20in%20Python" target="_blank"><button>Open</button></a> |
+| 3 | **Working with Categorical Data in Python** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/12_Working_with_Categorical_Data_in_Python" target="_blank"><button>Open</button></a> |
+| 4 | **Data Communication Concepts** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/13_Data_Communication_Conceptss" target="_blank"><button>Open</button></a> |
 
 
 ### Data Importing and Cleaning
 
 | # | Project | Link |
 |---|---------|------|
-| 1 | **Introduction to Importing Data in Python-(part-1)** | <a href="#" target="_blank"><button>Open</button></a> |
-| 2 | **Intermediate Importing Data in Python-(part-2)** | <a href="#" target="_blank"><button>Open</button></a> |
-| 3 | **Cleaning Data in Python [Part - 1]** | <a href="#" target="_blank"><button>Open</button></a> |
-| 4 | **Cleaning Data in Python [Part - 2]** | <a href="#" target="_blank"><button>Open</button></a> |
-| 5 | **Working with Dates and Times in Python** | <a href="#" target="_blank"><button>Open</button></a> |
+| 1 | **Introduction to Importing Data in Python-(part-1)** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/14_Introduction%20to%20Importing%20Data%20in%20Python-(part-1)" target="_blank"><button>Open</button></a> |
+| 2 | **Intermediate Importing Data in Python-(part-2)** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/15_Intermediate%20Importing%20Data%20in%20Python-(part-2)" target="_blank"><button>Open</button></a> |
+| 3 | **Cleaning Data in Python [Part - 1]** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/16_Cleaning%20Data%20in%20Python%20%5BPart%20-%201%5D" target="_blank"><button>Open</button></a> |
+| 4 | **Cleaning Data in Python [Part - 2]** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/17_Cleaning%20Data%20in%20Python%20%5BPart%20-%202%5D" target="_blank"><button>Open</button></a> |
+| 5 | **Working with Dates and Times in Python** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/18_Working%20with%20Dates%20and%20Times%20in%20Python" target="_blank"><button>Open</button></a> |
 
 
 ### Advanced Topics
 
 | # | Project | Link |
 |---|---------|------|
-| 1  | **Writing Functions in Python** | <a href="#" target="_blank"><button>Open</button></a> |
-| 2  | **Introduction to Regression with statsmodels in Python** | <a href="#" target="_blank"><button>Open</button></a> |
-| 3  | **Sampling in Python** | <a href="#" target="_blank"><button>Open</button></a> |
-| 4  | **Hypothesis Testing in Python** | <a href="#" target="_blank"><button>Open</button></a> |
-| 5  | **Supervised Learning with scikit-learn** | <a href="#" target="_blank"><button>Open</button></a> |
-| 6  | **Unsupervised Learning in Python** | <a href="#" target="_blank"><button>Open</button></a> |
-| 7  | **Cluster Analysis in Python** | <a href="#" target="_blank"><button>Open</button></a> |
-| 8  | **Machine Learning with Tree-Based Models in Python** | <a href="#" target="_blank"><button>Open</button></a> |
-| 9  | **Preprocessing for Machine Learning** | <a href="#" target="_blank"><button>Open</button></a> |
-| 10 | **Developing Python Packages** | <a href="#" target="_blank"><button>Open</button></a> |
-| 11 | **Machine Learning for Business** | <a href="#" target="_blank"><button>Open</button></a> |
-| 12 | **Introduction to SQL** | <a href="#" target="_blank"><button>Open</button></a> |
-| 13 | **Intermediate SQL** | <a href="#" target="_blank"><button>Open</button></a> |
-| 14 | **Joining Data in SQL** | <a href="#" target="_blank"><button>Open</button></a> |
-| 15 | **Introduction to Git** | <a href="#" target="_blank"><button>Open</button></a> |
+| 1  | **Writing Functions in Python** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/19_Writing%20Functions%20in%20Python" target="_blank"><button>Open</button></a> |
+| 2  | **Introduction to Regression with statsmodels in Python** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/20_Introduction_to_Regression_with_statsmodels_in_Python" target="_blank"><button>Open</button></a> |
+| 3  | **Sampling in Python** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/21_Sampling_in_Python" target="_blank"><button>Open</button></a> |
+| 4  | **Hypothesis Testing in Python** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/22_A_Hypothesis_Testing_in_Python" target="_blank"><button>Open</button></a> |
+
+| 5  | **Statistical-Thinking-in-Python-[Part -1]** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/22_B_Statistical-Thinking-in-Python-%5BPart%20-1%5D" target="_blank"><button>Open</button></a> |
+| 6  | **Statistical-Thinking-in-Python-[Part -2]** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/22_C_Statistical-Thinking-in-Python-%5BPart%20-2%5D" target="_blank"><button>Open</button></a> |
+| 7  | **Supervised Learning with scikit-learn** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/23_Supervised%20Learning%20with%20scikit-learn" target="_blank"><button>Open</button></a> |
+| 8  | **Unsupervised Learning in Python** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/24_Unsupervised_Learning_in_Python" target="_blank"><button>Open</button></a> |
+| 9  | **Cluster Analysis in Python** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/25_%2B_Cluster-Analysis-in-Python" target="_blank"><button>Open</button></a> |
+| 10  | **Machine Learning with Tree-Based Models in Python** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/25_Machine-Learning-with-Tree-Based-Models-in-Python" target="_blank"><button>Open</button></a> |
+| 11  | **Preprocessing for Machine Learning** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/26_Preprocessing_for_Machine_Learning" target="_blank"><button>Open</button></a> |
+| 12 | **Developing Python Packages** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/27_Developing_Python_Packages" target="_blank"><button>Open</button></a> |
+| 13 | **Machine Learning for Business** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/28_Machine_Learning_for_Business" target="_blank"><button>Open</button></a> |
+| 14 | **Introduction to SQL** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/29_Introduction_to_SQL" target="_blank"><button>Open</button></a> |
+| 15 | **Intermediate SQL** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/30_Intermediate_SQL" target="_blank"><button>Open</button></a> |
+| 16 | **Joining Data in SQL** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/31_Joining_Data_in_SQL" target="_blank"><button>Open</button></a> |
+| 17 | **Introduction to Git** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/32_Introduction_to_Git" target="_blank"><button>Open</button></a> |
 
 
 ## Projects
@@ -131,7 +135,7 @@ In addition to the comprehensive learning materials, this repository offers vari
 
 ## Certificate
 
-Verify [click here](https://www.datacamp.com/statement-of-accomplishment/track/aa09804d27b7b3792c7f55c131373799d0675dbd)
+Verify [click here](https://www.datacamp.com/statement-of-accomplishment/track/4f083548e0a1ba78080f3b8734b3d6e37b58d197?raw=1)
 
 <p align='center'>
   <a href='#'>

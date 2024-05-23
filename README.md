@@ -76,7 +76,6 @@ This track is a comprehensive journey through Python for data science. It consis
 | 2  | **Introduction to Regression with statsmodels in Python** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/20_Introduction_to_Regression_with_statsmodels_in_Python" target="_blank"><button>Open</button></a> |
 | 3  | **Sampling in Python** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/21_Sampling_in_Python" target="_blank"><button>Open</button></a> |
 | 4  | **Hypothesis Testing in Python** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/22_A_Hypothesis_Testing_in_Python" target="_blank"><button>Open</button></a> |
-
 | 5  | **Statistical-Thinking-in-Python-[Part -1]** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/22_B_Statistical-Thinking-in-Python-%5BPart%20-1%5D" target="_blank"><button>Open</button></a> |
 | 6  | **Statistical-Thinking-in-Python-[Part -2]** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/22_C_Statistical-Thinking-in-Python-%5BPart%20-2%5D" target="_blank"><button>Open</button></a> |
 | 7  | **Supervised Learning with scikit-learn** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/23_Supervised%20Learning%20with%20scikit-learn" target="_blank"><button>Open</button></a> |

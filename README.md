@@ -27,66 +27,85 @@ This track is a comprehensive journey through Python for data science. It consis
 
 ### Python Essentials
 
-1. **Introduction to Python** - Learn the fundamentals of Python programming.
-2. **Intermediate Python** - Dive deeper into Python and enhance your programming skills.
+| # | Project | Link |
+|---|---------|------|
+| 1 | **Introduction to Python** | <a href="#" target="_blank"><button>Open</button></a> |
+| 2 | **Intermediate Python** | <a href="#" target="_blank"><button>Open</button></a> |
+
 
 ### Data Manipulation and Visualization
 
-1. **Data Manipulation with pandas** - Discover the power of pandas library for data manipulation. 
-2. **Joining Data with pandas** - Master the techniques of joining and merging datasets.
-3. **Introduction to Statistics in Python** - Explore statistical analysis using Python. 
-4. **Introduction to Data Visualization with Matplotlib** - Learn how to create compelling visualizations with Matplotlib. 
-5. **Introduction to Data Visualization with Seaborn** - Dive into Seaborn library for advanced data visualization. 
-6. **Python-data-science-toolbox-(part-1)** - Unleash the power of Python libraries for data science. 
-7. **Python-data-science-toolbox-(part-2)** - Expand your Python data science toolkit further. 
-8.  **Intermediate Data Visualization with Seaborn** - Take your data visualization skills to the next level. 
+| # | Project | Link |
+|---|---------|------|
+| 1 | **Data Manipulation with pandas** | <a href="#" target="_blank"><button>Open</button></a> |
+| 2 | **Joining Data with pandas** | <a href="#" target="_blank"><button>Open</button></a> |
+| 3 | **Introduction to Statistics in Python** | <a href="#" target="_blank"><button>Open</button></a> |
+| 4 | **Introduction to Data Visualization with Matplotlib** | <a href="#" target="_blank"><button>Open</button></a> |
+| 5 | **Introduction to Data Visualization with Seaborn** | <a href="#" target="_blank"><button>Open</button></a> |
+| 6 | **Python-data-science-toolbox-(part-1)** | <a href="#" target="_blank"><button>Open</button></a> |
+| 7 | **Python-data-science-toolbox-(part-2)** | <a href="#" target="_blank"><button>Open</button></a> |
+| 8 | **Intermediate Data Visualization with Seaborn** | <a href="#" target="_blank"><button>Open</button></a> |
+
 
 ### Exploratory Data Analysis (EDA) and Statistics
 
-1.  **Exploratory Data Analysis in Python** - Perform thorough exploratory analysis on datasets. 
-2.  **Working with Categorical Data in Python** - Handle categorical data effectively in Python. 
-3.  **Data Communication Concepts** - Learn to effectively communicate data insights. 
+| # | Project | Link |
+|---|---------|------|
+| 1 | **Exploratory Data Analysis in Python** | <a href="#" target="_blank"><button>Open</button></a> |
+| 2 | **Working with Categorical Data in Python** | <a href="#" target="_blank"><button>Open</button></a> |
+| 3 | **Data Communication Concepts** | <a href="#" target="_blank"><button>Open</button></a> |
+
 
 ### Data Importing and Cleaning
 
-1.  **Introduction to Importing Data in Python-(part-1)** - Master techniques to import data into Python. 
-2.  **Intermediate Importing Data in Python-(part-2)** - Explore advanced data importing techniques. 
-3.  **Cleaning Data in Python [Part - 1]** - Learn essential data cleaning techniques. 
-4.  **Cleaning Data in Python [Part - 2]** - Continue refining your data cleaning skills. 
-5.  **Working with Dates and Times in Python** - Handle date and time data effectively. 
+| # | Project | Link |
+|---|---------|------|
+| 1 | **Introduction to Importing Data in Python-(part-1)** | <a href="#" target="_blank"><button>Open</button></a> |
+| 2 | **Intermediate Importing Data in Python-(part-2)** | <a href="#" target="_blank"><button>Open</button></a> |
+| 3 | **Cleaning Data in Python [Part - 1]** | <a href="#" target="_blank"><button>Open</button></a> |
+| 4 | **Cleaning Data in Python [Part - 2]** | <a href="#" target="_blank"><button>Open</button></a> |
+| 5 | **Working with Dates and Times in Python** | <a href="#" target="_blank"><button>Open</button></a> |
+
 
 ### Advanced Topics
 
-1.  **Writing Functions in Python** - Master the art of writing reusable functions.
-2.  **Introduction to Regression with statsmodels in Python** - Learn regression modeling using statsmodels.
-3.  **Sampling in Python** - Understand the techniques of sampling in Python.
-4.  **Hypothesis Testing in Python** - Perform hypothesis testing with statistical significance.
-5.  **Supervised Learning with scikit-learn** - Explore supervised learning algorithms using scikit-learn.
-6.  **Unsupervised Learning in Python** - Dive into unsupervised learning techniques.
-7.  **Cluster Analysis in Python** - Learn how to perform cluster analysis in Python. 
-8.  **Machine Learning with Tree-Based Models in Python** - Explore machine learning models based on trees.
-9.  **Preprocessing for Machine Learning** - Master the art of preprocessing data for machine learning.
-10. **Developing Python Packages** - Learn how to create and manage Python packages.
-11. **Machine Learning for Business** - Discover the applications of machine learning in a business context.
-12. **Introduction to SQL** - Get introduced to SQL for data management and analysis.
-13. **Intermediate SQL** - Expand your SQL skills with more advanced concepts.
-14. **Joining Data in SQL** - Learn how to join and merge data using SQL. 
-15. **Introduction to Git** - Explore the basics of version control with Git. 
+| # | Project | Link |
+|---|---------|------|
+| 1  | **Writing Functions in Python** | <a href="#" target="_blank"><button>Open</button></a> |
+| 2  | **Introduction to Regression with statsmodels in Python** | <a href="#" target="_blank"><button>Open</button></a> |
+| 3  | **Sampling in Python** | <a href="#" target="_blank"><button>Open</button></a> |
+| 4  | **Hypothesis Testing in Python** | <a href="#" target="_blank"><button>Open</button></a> |
+| 5  | **Supervised Learning with scikit-learn** | <a href="#" target="_blank"><button>Open</button></a> |
+| 6  | **Unsupervised Learning in Python** | <a href="#" target="_blank"><button>Open</button></a> |
+| 7  | **Cluster Analysis in Python** | <a href="#" target="_blank"><button>Open</button></a> |
+| 8  | **Machine Learning with Tree-Based Models in Python** | <a href="#" target="_blank"><button>Open</button></a> |
+| 9  | **Preprocessing for Machine Learning** | <a href="#" target="_blank"><button>Open</button></a> |
+| 10 | **Developing Python Packages** | <a href="#" target="_blank"><button>Open</button></a> |
+| 11 | **Machine Learning for Business** | <a href="#" target="_blank"><button>Open</button></a> |
+| 12 | **Introduction to SQL** | <a href="#" target="_blank"><button>Open</button></a> |
+| 13 | **Intermediate SQL** | <a href="#" target="_blank"><button>Open</button></a> |
+| 14 | **Joining Data in SQL** | <a href="#" target="_blank"><button>Open</button></a> |
+| 15 | **Introduction to Git** | <a href="#" target="_blank"><button>Open</button></a> |
+
 
 ## Projects
 
 In addition to the comprehensive learning materials, this repository offers various projects to apply and reinforce your data science skills. Here is a list of the projects available:
 
-- **Analyzing TV Data** - Analyze television data to gain insights. 
-- **Investigating Netflix Movies** - Explore and analyze Netflix movies.
-- **What and Where are the World's Oldest Businesses** - Investigate the world's  oldest businesses.
-- **Google Play Store Apps and Reviews** - Analyze Google Play Store apps and reviews. 
-- **The GitHub History of the Scala Language** - Visualize the history of the  Scala language on GitHub. 
-- **A Visual History of Nobel Prize Winners** - Explore the achievements of Nobel Prize winners visually. 
-- **Dr. Semmelweis and the Discovery of Handwashing** - Analyze the impact of handwashing in healthcare. 
-- **Predicting Credit Card Approvals** - Build a predictive model for credit card approvals. 
-- **School Budgeting with Machine Learning in Python** - Apply machine learning to school budgeting.
-- **Analyzing Police Activity with pandas** -  Analyze police activity using pandas. 
+| # | Project | Link |
+|---|---------|------|
+| 1 | **Analyzing TV Data** | <a href="#" target="_blank"><button>Open</button></a> |
+| 2 | **Investigating Netflix Movies** | <a href="#" target="_blank"><button>Open</button></a> |
+| 3 | **What and Where are the World's Oldest Businesses** | <a href="#" target="_blank"><button>Open</button></a> |
+| 4 | **Google Play Store Apps and Reviews** | <a href="#" target="_blank"><button>Open</button></a> |
+| 5 | **The GitHub History of the Scala Language** | <a href="#" target="_blank"><button>Open</button></a> |
+| 6 | **A Visual History of Nobel Prize Winners** | <a href="#" target="_blank"><button>Open</button></a> |
+| 7 | **Dr. Semmelweis and the Discovery of Handwashing** | <a href="#" target="_blank"><button>Open</button></a> |
+| 8 | **Predicting Credit Card Approvals** | <a href="#" target="_blank"><button>Open</button></a> |
+| 9 | **School Budgeting with Machine Learning in Python** | <a href="#" target="_blank"><button>Open</button></a> |
+| 10 | **Analyzing Police Activity with pandas** | <a href="#" target="_blank"><button>Open</button></a> |
+
+
 
 
 

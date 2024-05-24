@@ -147,6 +147,7 @@ In addition to the comprehensive learning materials, this repository offers vari
 | 10 | **Analyzing Police Activity with pandas** | <a href="#" target="_blank"><button>Open</button></a> |
 | 11 | **Exploring NYC Public School Test Result Scores** | <a href="#" target="_blank"><button>Open</button></a> |
 | 12 | **Analyzing Crime in Los Angeles** | <a href="#" target="_blank"><button>Open</button></a> |
+| 13 | **Preparing Data for Customer Analytics Modeling** | <a href="#" target="_blank"><button>Open</button></a> |
 
 
 

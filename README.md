@@ -9,10 +9,48 @@
 ![Size](https://img.shields.io/github/repo-size/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python)
 
 
-
 <p align='center'>
   <a href="#">
     <img src='https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/_png/head_new.gif?raw=true' alt="head_image">
+  </a>
+</p>
+
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Data
+libraries = [
+    "NumPy", "Pandas", "Matplotlib", "Seaborn", "SciPy", "Scikit-learn", "TensorFlow", "Keras",
+    "PyTorch", "Statsmodels", "XGBoost", "LightGBM", "CatBoost", "NLTK", "SpaCy", "Gensim",
+    "Plotly", "Bokeh", "Dash", "H2O.ai", "PyCaret", "Dask", "Orange3"
+]
+
+# Parameters for circular layout
+num_libs = len(libraries)
+angles = np.linspace(0, 2 * np.pi, num_libs, endpoint=False).tolist()
+
+# Plot
+fig, ax = plt.subplots(figsize=(12, 12), subplot_kw={'projection': 'polar'})
+bars = ax.bar(angles, np.ones(num_libs), width=0.3, bottom=2.5, color='skyblue', edgecolor='black')
+
+# Add library names and URLs
+for bar, angle, lib in zip(bars, angles, libraries):
+    rotation = np.rad2deg(angle)
+    alignment = 'left' if angle < np.pi else 'right'
+    ax.text(angle, bar.get_height() + 3.0, lib, rotation=rotation, ha=alignment, va='center', fontsize=12, color='black')
+
+# Customize plot
+ax.set_yticklabels([])
+ax.set_xticks([])
+ax.spines['polar'].set_visible(False)
+plt.show()
+
+# Output
+```
+<p align='center'>
+  <a href='#'>
+    <img src='_png\dataScience.png' width=70%>
   </a>
 </p>
 
@@ -25,7 +63,7 @@ Welcome to the Data Science Repository! This repository is designed to help you 
 
 This track is a comprehensive journey through Python for data science. It consists of various libraries and tools to import, clean, manipulate, visualize data, and build predictive models. Here's an overview of the contents in this repository:
 
-### Python Essentials
+# ➤ ⭐Python Essentials
 
 | # | Project | Link |
 |---|---------|------|
@@ -33,7 +71,7 @@ This track is a comprehensive journey through Python for data science. It consis
 | 2 | **Intermediate Python** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/02_Intermediate%20Python" target="_blank"><button>Open</button></a> |
 
 
-### Data Manipulation and Visualization
+# ➤ ⭐Data Manipulation and Visualization
 
 | # | Project | Link |
 |---|---------|------|
@@ -47,7 +85,7 @@ This track is a comprehensive journey through Python for data science. It consis
 | 8 | **Intermediate Data Visualization with Seaborn** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/10_Intermediate%20Data%20Visualization%20with%20Seaborn" target="_blank"><button>Open</button></a> |
 
 
-### Exploratory Data Analysis (EDA) and Statistics
+# ➤ ⭐ Exploratory Data Analysis (EDA) and Statistics
 
 | # | Project | Link |
 |---|---------|------|
@@ -57,7 +95,7 @@ This track is a comprehensive journey through Python for data science. It consis
 | 4 | **Data Communication Concepts** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/13_Data_Communication_Conceptss" target="_blank"><button>Open</button></a> |
 
 
-### Data Importing and Cleaning
+# ➤ ⭐ Data Importing and Cleaning
 
 | # | Project | Link |
 |---|---------|------|
@@ -68,7 +106,7 @@ This track is a comprehensive journey through Python for data science. It consis
 | 5 | **Working with Dates and Times in Python** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/18_Working%20with%20Dates%20and%20Times%20in%20Python" target="_blank"><button>Open</button></a> |
 
 
-### Advanced Topics
+# ➤ ⭐ Advanced Topics
 
 | # | Project | Link |
 |---|---------|------|
@@ -91,7 +129,7 @@ This track is a comprehensive journey through Python for data science. It consis
 | 17 | **Introduction to Git** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/32_Introduction_to_Git" target="_blank"><button>Open</button></a> |
 
 
-## Projects
+# ➤ ⭐ Projects
 
 In addition to the comprehensive learning materials, this repository offers various projects to apply and reinforce your data science skills. Here is a list of the projects available:
 
@@ -113,9 +151,28 @@ In addition to the comprehensive learning materials, this repository offers vari
 
 
 
+# 🗂️ ➤ Additional Resources
+
+- ➤ [**Machine Learning**](https://github.com/mohd-faizy/Machine-Learning-Scientist-with-Python)
+- ➤ [**Machines leaning and Data science in one Notebook**](https://github.com/mohd-faizy/ML-DS-OneNote)
+- ➤ [**Feature Engineering & Feature selection**](https://github.com/mohd-faizy/feature-engineering-hacks)
+- ➤ [**Statistics for Data Science**](https://github.com/mohd-faizy/Stats-with-Data)
+- ➤ [**Data Preprocessing**](https://github.com/mohd-faizy/Preprocess_ML)
+- ➤ [**NumPy**](https://github.com/mohd-faizy/Learn_Numpy)
+- ➤ [**Matplotlib**](https://github.com/mohd-faizy/Learn_Matplotlib)
+- ➤ [**Pandas**](https://github.com/mohd-faizy/Learn_Pandas)
+- ➤ [**Seaborn**](https://github.com/mohd-faizy/Learn_Seaborn)
 
 
-## __STATISTICS__ 
+## ⭐ **RoadMap OLD**
+
+<p align='center'>
+  <a href="#">
+    <img src='_png\Data-Scientist with-Python.jpg' alt="map_img">
+  </a>
+</p>
+
+## 📊📈📉 **STATISTICS** 
 
 <p align='center'>
   <a href="#">
@@ -123,38 +180,51 @@ In addition to the comprehensive learning materials, this repository offers vari
   </a>
 </p>
 
-## Confusion Matrix
-<p align='center'>
-  <a href="#">
-    <img src='https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/blob/main/_png/Confusion%20Matrix.png?raw=true'>
-  </a>
-</p>
 
-[__Source:__ Wikipedia](https://en.wikipedia.org/wiki/Confusion_matrix)
 
 ---
 
-## Certificate
+## 📄 ➤ STATEMENT OF ACCOMPLISHMENT
 
-Verify [click here](https://www.datacamp.com/statement-of-accomplishment/track/4f083548e0a1ba78080f3b8734b3d6e37b58d197?raw=1)
+➤ ⭐[1. **Data Scientist Professional with Python**](https://www.datacamp.com/statement-of-accomplishment/track/4f083548e0a1ba78080f3b8734b3d6e37b58d197?raw=1)
+
 
 <p align='center'>
-  <a href='#'>
-    <img src='_Certificates\Data Scientist Professional with Python.jpg' width=>
+  <a href='https://www.datacamp.com/statement-of-accomplishment/track/4f083548e0a1ba78080f3b8734b3d6e37b58d197?raw=1'>
+    <img src='_Certificates\Data Scientist Professional with Python.jpg' width=70%>
   </a>
 </p>
 
+➤ ⭐[2. **Associate Data Scientist**](https://www.datacamp.com/statement-of-accomplishment/track/aa09804d27b7b3792c7f55c131373799d0675dbd?raw=1)
 <p align='center'>
-  <a href="#"><img src='https://tymsai.netlify.app/resource/1.gif' height='10' width=100% alt="div"></a>
+  <a href='https://www.datacamp.com/statement-of-accomplishment/track/aa09804d27b7b3792c7f55c131373799d0675dbd?raw=1'>
+    <img src='_Certificates\Associate Data Scientist in Python.jpg' width=70%>
+  </a>
 </p>
+
+
+
+
+## ⚖ ➤ License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+## ❤️ ➤ Support
+
+If you find this repository helpful, show your support by starring it! For questions or feedback, reach out on [Twitter(`X`)](https://twitter.com/F4izy).
 
 #### $\color{skyblue}{\textbf{Connect with me:}}$
 
+🔃 ➤ If you have questions or feedback, feel free to reach out!!!
+
 [<img align="left" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="32px"/>][twitter]
 [<img align="left" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="32px"/>][linkedin]
-[<img align="left" src="https://cdn2.iconfinder.com/data/icons/whcompare-blue-green-web-hosting-1/425/cdn-512.png" width="32px"/>][Portfolio]
+[<img align="left" src="https://cdn-icons-png.flaticon.com/512/2626/2626299.png" width="32px"/>][Portfolio]
 
 [twitter]: https://twitter.com/F4izy
 [linkedin]: https://www.linkedin.com/in/mohd-faizy/
-[Portfolio]: https://mohdfaizy.com/
+[Portfolio]: https://ai.stackexchange.com/users/36737/faizy?tab=profile
 
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true" width=380px height=200px />

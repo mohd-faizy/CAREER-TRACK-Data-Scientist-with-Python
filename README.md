@@ -135,19 +135,20 @@ In addition to the comprehensive learning materials, this repository offers vari
 
 | # | Project | Link |
 |---|---------|------|
-| 1 | **Analyzing TV Data** | <a href="#" target="_blank"><button>Open</button></a> |
-| 2 | **Investigating Netflix Movies** | <a href="#" target="_blank"><button>Open</button></a> |
-| 3 | **What and Where are the World's Oldest Businesses** | <a href="#" target="_blank"><button>Open</button></a> |
-| 4 | **Google Play Store Apps and Reviews** | <a href="#" target="_blank"><button>Open</button></a> |
-| 5 | **The GitHub History of the Scala Language** | <a href="#" target="_blank"><button>Open</button></a> |
-| 6 | **A Visual History of Nobel Prize Winners** | <a href="#" target="_blank"><button>Open</button></a> |
-| 7 | **Dr. Semmelweis and the Discovery of Handwashing** | <a href="#" target="_blank"><button>Open</button></a> |
-| 8 | **Predicting Credit Card Approvals** | <a href="#" target="_blank"><button>Open</button></a> |
-| 9 | **School Budgeting with Machine Learning in Python** | <a href="#" target="_blank"><button>Open</button></a> |
-| 10 | **Analyzing Police Activity with pandas** | <a href="#" target="_blank"><button>Open</button></a> |
-| 11 | **Exploring NYC Public School Test Result Scores** | <a href="#" target="_blank"><button>Open</button></a> |
-| 12 | **Analyzing Crime in Los Angeles** | <a href="#" target="_blank"><button>Open</button></a> |
-| 13 | **Preparing Data for Customer Analytics Modeling** | <a href="#" target="_blank"><button>Open</button></a> |
+| 1 | **Analyzing TV Data** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/01_Project_Analyzing%20TV%20Data" target="_blank"><button>Open</button></a> |
+| 2 | **Investigating Netflix Movies** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/02_Project_%20Investigating_Netflix_Movies" target="_blank"><button>Open</button></a> |
+| 3 | **What and Where are the World's Oldest Businesses** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/03_Project_What_and_Where_are_the_World's_Oldest_Businesses" target="_blank"><button>Open</button></a> |
+| 4 | **Google Play Store Apps and Reviews** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/04_Project_Google_Play_Store_apps_and_reviews" target="_blank"><button>Open</button></a> |
+| 5 | **The GitHub History of the Scala Language** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/05_Project_The%20GitHub%20History%20of%20the%20Scala%20Language" target="_blank"><button>Open</button></a> |
+| 6 | **A Visual History of Nobel Prize Winners** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/06_Project_A%20Visual%20History%20of%20Nobel%20Prize%20Winners" target="_blank"><button>Open</button></a> |
+| 7 | **Dr. Semmelweis and the Discovery of Handwashing** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/07_Project_Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing" target="_blank"><button>Open</button></a> |
+| 8 | **Predicting Credit Card Approvals** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/08_Project_Predicting-Credit-Card-Approvals" target="_blank"><button>Open</button></a> |
+| 9 | **School Budgeting with Machine Learning in Python** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/09_Case-Study-School-Budgeting-with-Machine-Learning-in-Python" target="_blank"><button>Open</button></a> |
+| 10 | **Analyzing Police Activity with pandas** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/10_Analyzing%20Police%20Activity%20with%20pandas" target="_blank"><button>Open</button></a> |
+| 11 | **Exploring NYC Public School Test Result Scores** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/11_Project_Exploring-NYC-Public-School-Test-Result-Scoreshttps://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/11_Project_Exploring-NYC-Public-School-Test-Result-Scores" target="_blank"><button>Open</button></a> |
+| 12 | **Analyzing Crime in Los Angeles** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/12_Analyzing-Crime-in-Los-Angeles" target="_blank"><button>Open</button></a> |
+| 13 | **Preparing Data for Customer Analytics Modeling** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/13_Preparing-Data-for-Customer-Analytics-Modeling-main" target="_blank"><button>Open</button></a> |
+| 14 | **Modeling Car Insurance Claim Outcomes** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/14_Modeling%20Car%20Insurance%20Claim%20Outcomes" target="_blank"><button>Open</button></a> |
 
 
 

@@ -129,6 +129,7 @@ This track is a comprehensive journey through Python for data science. It consis
 | 17 | **Introduction to Git** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/32_Introduction_to_Git" target="_blank"><button>Open</button></a> |
 
 
+
 # ➤ ⭐ Projects
 
 In addition to the comprehensive learning materials, this repository offers various projects to apply and reinforce your data science skills. Here is a list of the projects available:
@@ -149,12 +150,16 @@ In addition to the comprehensive learning materials, this repository offers vari
 | 12 | **Analyzing Crime in Los Angeles** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/12_Analyzing-Crime-in-Los-Angeles" target="_blank"><button>Open</button></a> |
 | 13 | **Preparing Data for Customer Analytics Modeling** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/13_Preparing-Data-for-Customer-Analytics-Modeling-main" target="_blank"><button>Open</button></a> |
 | 14 | **Modeling Car Insurance Claim Outcomes** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/14_Modeling%20Car%20Insurance%20Claim%20Outcomes" target="_blank"><button>Open</button></a> |
+| 15 | **Hypothesis Testing Soccer Matches** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/15_hypothesis%20Testing%20Soccer%20Matches" target="_blank"><button>Open</button></a> |
+| 16 | **Predictive Modeling for Agriculture** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/16_%20Predictive_Modeling_for_Agriculture" target="_blank"><button>Open</button></a> |
+| 17 | 🔜  | <a href="#" target="_blank"><button>Open</button></a> |
 
 
 
 
 # 🗂️ ➤ Additional Resources
 
+- ➤ [**Python**](https://github.com/mohd-faizy/learn_python)
 - ➤ [**Machine Learning**](https://github.com/mohd-faizy/Machine-Learning-Scientist-with-Python)
 - ➤ [**Machines leaning and Data science in one Notebook**](https://github.com/mohd-faizy/ML-DS-OneNote)
 - ➤ [**Feature Engineering & Feature selection**](https://github.com/mohd-faizy/feature-engineering-hacks)

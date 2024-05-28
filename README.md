@@ -152,7 +152,8 @@ In addition to the comprehensive learning materials, this repository offers vari
 | 14 | **Modeling Car Insurance Claim Outcomes** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/14_Modeling%20Car%20Insurance%20Claim%20Outcomes" target="_blank"><button>Open</button></a> |
 | 15 | **Hypothesis Testing Soccer Matches** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/15_hypothesis%20Testing%20Soccer%20Matches" target="_blank"><button>Open</button></a> |
 | 16 | **Predictive Modeling for Agriculture** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/16_%20Predictive_Modeling_for_Agriculture" target="_blank"><button>Open</button></a> |
-| 17 | 🔜  | <a href="#" target="_blank"><button>Open</button></a> |
+| 17 | Clustering Antarctic Penguin Species  | <a href="#" target="_blank"><button>Open</button></a> |
+| 18 | 🔜  | <a href="#" target="_blank"><button>Open</button></a> |
 
 
 

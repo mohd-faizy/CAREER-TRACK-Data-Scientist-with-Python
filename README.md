@@ -136,25 +136,28 @@ In addition to the comprehensive learning materials, this repository offers vari
 
 | # | Project | Link |
 |---|---------|------|
-| 1 | **Analyzing TV Data** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/01_Project_Analyzing%20TV%20Data" target="_blank"><button>Open</button></a> |
-| 2 | **Investigating Netflix Movies** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/02_Project_%20Investigating_Netflix_Movies" target="_blank"><button>Open</button></a> |
-| 3 | **What and Where are the World's Oldest Businesses** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/03_Project_What_and_Where_are_the_World's_Oldest_Businesses" target="_blank"><button>Open</button></a> |
-| 4 | **Google Play Store Apps and Reviews** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/04_Project_Google_Play_Store_apps_and_reviews" target="_blank"><button>Open</button></a> |
-| 5 | **The GitHub History of the Scala Language** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/05_Project_The%20GitHub%20History%20of%20the%20Scala%20Language" target="_blank"><button>Open</button></a> |
-| 6 | **A Visual History of Nobel Prize Winners** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/06_Project_A%20Visual%20History%20of%20Nobel%20Prize%20Winners" target="_blank"><button>Open</button></a> |
-| 7 | **Dr. Semmelweis and the Discovery of Handwashing** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/07_Project_Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing" target="_blank"><button>Open</button></a> |
-| 8 | **Predicting Credit Card Approvals** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/08_Project_Predicting-Credit-Card-Approvals" target="_blank"><button>Open</button></a> |
-| 9 | **School Budgeting with Machine Learning in Python** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/09_Case-Study-School-Budgeting-with-Machine-Learning-in-Python" target="_blank"><button>Open</button></a> |
-| 10 | **Analyzing Police Activity with pandas** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/10_Analyzing%20Police%20Activity%20with%20pandas" target="_blank"><button>Open</button></a> |
-| 11 | **Exploring NYC Public School Test Result Scores** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/11_Project_Exploring-NYC-Public-School-Test-Result-Scoreshttps://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/11_Project_Exploring-NYC-Public-School-Test-Result-Scores" target="_blank"><button>Open</button></a> |
-| 12 | **Analyzing Crime in Los Angeles** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/12_Analyzing-Crime-in-Los-Angeles" target="_blank"><button>Open</button></a> |
-| 13 | **Preparing Data for Customer Analytics Modeling** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/13_Preparing-Data-for-Customer-Analytics-Modeling-main" target="_blank"><button>Open</button></a> |
-| 14 | **Modeling Car Insurance Claim Outcomes** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/14_Modeling%20Car%20Insurance%20Claim%20Outcomes" target="_blank"><button>Open</button></a> |
-| 15 | **Hypothesis Testing Soccer Matches** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/15_hypothesis%20Testing%20Soccer%20Matches" target="_blank"><button>Open</button></a> |
-| 16 | **Predictive Modeling for Agriculture** | <a href="https://github.com/mohd-faizy/CAREER-TRACK-Data-Scientist-with-Python/tree/main/__Projects__/16_%20Predictive_Modeling_for_Agriculture" target="_blank"><button>Open</button></a> |
-| 17 | **Clustering Antarctic Penguin Species**  | <a href="#" target="_blank"><button>Open</button></a> |
-| 18 | **Predicting Movie Rental Durations**  | <a href="#" target="_blank"><button>Open</button></a> |
-| 18 | 🔜  | <a href="#" target="_blank"><button>Open</button></a> |
+| 1 | **Analyzing TV Data** |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1r91R2HXnkr5wBm-7_R3hVXI1ouTa5rAT?authuser=1)|
+| 2 | **Investigating Netflix Movies** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DIPVZ483Q8M1DzygIpXJOIcskm_ld391?authuser=1) |
+| 3 | **What and Where are the World's Oldest Businesses** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FtmNWsky8S1h9WAb35tpvztAkoHipcNJ?authuser=1) |
+| 4 | **Google Play Store Apps and Reviews** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nrdDlME9722A0Ui2hAqZcl1HgUkBMVbz?authuser=1) |
+| 5 | **The GitHub History of the Scala Language** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qbskfw477wOMOq8sd48qSOCaXJwna3Hd?authuser=1)  |
+| 6 | **A Visual History of Nobel Prize Winners** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16yAqJurdNSEh4UBmUQ4x77aiDjZTguvN?authuser=1)   |
+| 7 | **Dr. Semmelweis and the Discovery of Handwashing** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gSSLGEXelnffjc927cPq5MBKdVFver6X?authuser=1)  |
+| 8 | **Predicting Credit Card Approvals** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YPmHiweI6dgGpzbSGqnRczt0E6WDZMkL?authuser=1)  |
+| 9 | **School Budgeting with Machine Learning in Python** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mAYturGFpKFGv-okj4Fxd_WCVLNaZBs6?authuser=1)  |
+| 10 | **Analyzing Police Activity with pandas** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YxH9LWKJ--0xH1pYIIdO7aWui0cRkvll?authuser=1)   |
+| 11 | **Exploring NYC Public School Test Result Scores** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/198mJ0l8HaFXIWMVXaeTggLpi4FtviZDe?authuser=1)|
+| 12 | **Analyzing Crime in Los Angeles** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16kWK8G8XX1FYOlkwg8_JClHbjSl4rpm3?authuser=1)  |
+| 13 | **Preparing Data for Customer Analytics Modeling** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AKp7nDs5VN36bjg5okh17rIYRqXDfB0q?authuser=1) |
+| 14 | **Modeling Car Insurance Claim Outcomes(EDA)** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PyXGUyLxQZ0WiTMh840MP0_T7pOlmtyr?authuser=1) |
+|  | **Modeling Car Insurance Claim Outcomes(ML)** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zwklSBB97TAfZP1N-cn-EmTGeEZayqsl?authuser=1)|
+|  | **Modeling Car Insurance Claim Outcomes(GB-RF)** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mnJtBcE-yd9Kp34jRvb1fY0Ni_SgEaCL?authuser=1)|
+|  | **Modeling Car Insurance Claim Outcomes(Ensemble_Method)** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qhBDuPr46Wa3UD7N7vc8Rf1yymYqiWQk?authuser=1)|
+| 15 | **Hypothesis Testing Soccer Matches** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bL2ng1xzVb6D1WGxutVjLXQU3Fb-Ooxj?authuser=1)|
+| 16 | **Predictive Modeling for Agriculture** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16MjYL_CC_ZHBNQMW8XeHfwZQvy5vHtzt?authuser=1)|
+| 17 | **Clustering Antarctic Penguin Species**  | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tkbeIGedkQpU4Zv4B2gz_gsBfLCwvPd0?authuser=1)|
+| 18 | **Predicting Movie Rental Durations**  | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
+| 19 | 🔜  | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15M5RgV-f8Fyl6Cm-UhrtphYKWuHkM6MB?authuser=1)  |
 
 
 
